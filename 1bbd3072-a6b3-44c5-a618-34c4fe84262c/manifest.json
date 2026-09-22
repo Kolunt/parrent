@@ -1,0 +1,924 @@
+{
+  "version": "1.0",
+  "id": "1bbd3072-a6b3-44c5-a618-34c4fe84262c",
+  "type": "collection",
+  "names": {
+    "en": "List of films in the public domain in the United States",
+    "ru": null,
+    "original": null
+  },
+  "descriptions": null,
+  "genres": null,
+  "external_ids": null,
+  "poster": null,
+  "backdrop": null,
+  "external_url": null,
+  "items": [
+    {
+      "type": "movie",
+      "id": "aa353eb8-211e-4486-9195-c646e6dad7fa",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Ужас крошечного городка"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Отец Бака Ларсона просит сына отправиться на ранчо, чтобы выяснить куда исчезают телята. Бак замечает угонщиков скота, но они сбегают, прежде чем он успевает их рассмотреть. На месте кражи скота Бак находит клеймо с инициалами владельца соседнего ранчо…\nЕдинственный в мире вестерн, где все роли сыграны актерами-карликами."
+      },
+      "genres": [
+        "вестерн"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1938,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "8479",
+        "tmdb": null
+      },
+      "filename": "The Terror of Tiny Town (1938)",
+      "torrent": "torrents/aa353eb8-211e-4486-9195-c646e6dad7fa.torrent",
+      "size": 733742715,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/aa353eb8-211e-4486-9195-c646e6dad7fa_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "915d3609-f557-45ef-9393-c82123e555a2",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Алжир"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Алжир — это место, где жаркая пустыня встречается со Средиземным морем, и современная Европа сталкивается с древней Африкой. В нескольких шагах от нового города находится старинный район Касбах, который возвышается крепостью над морем. Его населяют люди самых различных племен и рас — скитальцы и изгои со всего мира, а также преступники, которые укрываются там от длинной руки закона.\n\nГлавенствует там один человек - Пепе ле Мокко, которого давно разыскивает французская полиция. Жизнь в изгнании претит Пепе, им овладевает тоска по веселому Парижу и тем дням и даже близость с безумно любящей его восточной красавицей Инее не приносит счастья.\n\nХитроумный детектив Слиман подстерегает момент, когда разыскиваемый решит покинуть Касбах, чтобы взять его. Габи красивая, праздная и уверенная в себе туристка из Парижа, знакомится с Пепе и между ними вспыхивает искра страсти, которая разожжёт пламя любовного романа и доведет его до фатального завершения…"
+      },
+      "genres": [
+        "драма",
+        "мелодрама",
+        "детектив"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1938,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "17418",
+        "tmdb": null
+      },
+      "filename": "Alzhir.1938.XviD.DVDRip.avi",
+      "torrent": "torrents/915d3609-f557-45ef-9393-c82123e555a2.torrent",
+      "size": 1457534976,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/915d3609-f557-45ef-9393-c82123e555a2_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "897d64d9-a0c1-4c29-a828-5cdd1842f4c4",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Ангел и негодяй"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Керт Грант - известный во всей округе ковбой, из тех, кого называют хороший плохой парень, заняв новый участок и уходя от погони, попадает в семью квакеров Уортов.\n\nЮная Пенелопа Уорт сразу и безоглядно влюбляется в него и простодушно признается в этом Керту. И сердце Керта не может не отозваться на столь искреннее признание."
+      },
+      "genres": [
+        "мелодрама",
+        "вестерн"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1947,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1377",
+        "tmdb": null
+      },
+      "filename": "Ангел и злодей.avi",
+      "torrent": "torrents/897d64d9-a0c1-4c29-a828-5cdd1842f4c4.torrent",
+      "size": 756467712,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/897d64d9-a0c1-4c29-a828-5cdd1842f4c4_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "ee37dd05-4222-4e32-86c9-d77dc2157f49",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Утопия"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Герои получают в наследство собственный остров в южных морях и небольшую яхту в придачу. Они немедленно отправляются на яхте осмотреть свои владения, но, увы, мощный шторм выбрасывает ветхое суденышко на атолл, где новоявленные Робинзоны начинают вести хозяйство. Правда, никто из них даже не догадывается, что они расположились на месторождении урана!"
+      },
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "Франция",
+        "Италия"
+      ],
+      "year": 1951,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "140645",
+        "tmdb": null
+      },
+      "filename": "Atoll.K.1951.XviD.DVDRip.Fenixclub",
+      "torrent": "torrents/ee37dd05-4222-4e32-86c9-d77dc2157f49.torrent",
+      "size": 1598483718,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/ee37dd05-4222-4e32-86c9-d77dc2157f49_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "e0333bf8-dbf3-49f9-a499-a3c8b443416f",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Безумие 13 / Dementia 13"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Желая получить наследство от матери мужа, Луиза скрывает его внезапную смерть от сердечного приступа: выбрасывает тело в озеро и подстраивает так, будто он уехал в срочную командировку. А тем временем родня супруга собирается в своём ирландском замке, чтобы провести ежегодный ритуал на смерть младшей сестры, которая ещё ребёнком утонула в местном пруду. Луиза начинает обхаживать придирчивую свекровь и решает потворствовать её болезненной скорби по погибшей дочери."
+      },
+      "genres": [
+        "триллер"
+      ],
+      "countries": [
+        "США",
+        "Ирландия"
+      ],
+      "year": 1963,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "7338",
+        "tmdb": null
+      },
+      "filename": "Безумие 13.1963.Director's Cut.BDRip-AVC msltel.mkv",
+      "torrent": "torrents/e0333bf8-dbf3-49f9-a499-a3c8b443416f.torrent",
+      "size": 2326050831,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/e0333bf8-dbf3-49f9-a499-a3c8b443416f_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "434ac16d-a69f-4ee1-adc6-bd8ea4c1277a",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Бекки Шарп"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Бекки и Амелия — школьные подруги. Бекки из очень бедной семьи и дружба с такой девочкой как Амелия для первой — большая роскошь. Всё же Бекки удается втереться в доверие к более богатой подруге, став на короткой ноге не только с ней, но и многими её друзьями и родственниками. Девочка из не богатой семьи пытается пробиться в «свет» общества, используя многие попавшиеся под руку средства. Это приводит её к весьма печальному финалу."
+      },
+      "genres": [
+        "драма",
+        "мелодрама",
+        "военный"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1935,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "13815",
+        "tmdb": null
+      },
+      "filename": "Becky Sharp (1935, rus_VO+eng+rus_sub+eng_sub).mkv",
+      "torrent": "torrents/434ac16d-a69f-4ee1-adc6-bd8ea4c1277a.torrent",
+      "size": 1574174306,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/434ac16d-a69f-4ee1-adc6-bd8ea4c1277a_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "6cdc3ded-6a55-4b3d-aef6-a99ffe2fb5eb",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Белый зомби"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Молодые влюбленные Нил и Мадлен отправляются в романтическое путешествие на Гаити. В пути на корабле герои знакомятся с весьма изысканным и учтивым господином, месье Бомоном. По прибытии на остров влюбленные решают остановиться у него. Бомон влюбляется в Мадлен и делает все, чтобы добиться взаимности. Когда девушка в очередной раз жестко отвергает ухаживания, он решается на крайний шаг и обращается за помощью к практикующему вуду колдуну. Тот дает герою зелье, которое должно превратить Мадлен в зомби."
+      },
+      "genres": [
+        "ужасы"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1932,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "32282",
+        "tmdb": null
+      },
+      "filename": "White.Zombie.1932.DVDRip.Xvid.AC3-Zombie.Lee.avi",
+      "torrent": "torrents/6cdc3ded-6a55-4b3d-aef6-a99ffe2fb5eb.torrent",
+      "size": 801544192,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/6cdc3ded-6a55-4b3d-aef6-a99ffe2fb5eb_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "ab5e9fc8-d70b-4693-8827-5d8aa9b24476",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Богова делянка"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Обедневший фермер Тай Тай всё свое время тратит на то, чтобы найти золото, якобы закопанное его дедом неподалеку от дома. Но дети фермера вовсе не интересуются результатами поисков - у них более серьезные проблемы."
+      },
+      "genres": [
+        "драма",
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1958,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "16290",
+        "tmdb": null
+      },
+      "filename": "Богова.делянка.1958.avi",
+      "torrent": "torrents/ab5e9fc8-d70b-4693-8827-5d8aa9b24476.torrent",
+      "size": 1565288448,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/ab5e9fc8-d70b-4693-8827-5d8aa9b24476_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "e4a8f864-316b-4c99-94ed-7c2ef4ac4775",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Бремя страстей человеческих"
+      },
+      "descriptions": null,
+      "genres": [
+        "фильм-нуар",
+        "драма",
+        "мелодрама"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1934,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "13394",
+        "tmdb": null
+      },
+      "filename": "bremya_strastei_chelovecheskih_745_[torrents.ru]_by_bm11.avi",
+      "torrent": "torrents/e4a8f864-316b-4c99-94ed-7c2ef4ac4775.torrent",
+      "size": 779393024,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/e4a8f864-316b-4c99-94ed-7c2ef4ac4775_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "e00631cb-ec34-47b7-bbb9-6e7fef7316f7",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Везучий техасец"
+      },
+      "descriptions": null,
+      "genres": [
+        "боевик",
+        "мелодрама",
+        "приключения",
+        "вестерн"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1934,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1438",
+        "tmdb": null
+      },
+      "filename": "[apreder]Gold_Strike_River(1934)DVB.mkv",
+      "torrent": "torrents/e00631cb-ec34-47b7-bbb9-6e7fef7316f7.torrent",
+      "size": 621546013,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/e00631cb-ec34-47b7-bbb9-6e7fef7316f7_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "5f7de1b0-5855-4bdd-bb25-e63b40723fa2",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Великий Фламарион"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Фламарион выступает в шоу, показывая трюки с огнестрельным оружием. В представлениях ему помогают Ал Уоллес и его красавица жена Конни. Фламарион влюбляется в Конни и соглашается помочь ей избавиться от мужа-алкоголика."
+      },
+      "genres": [
+        "фильм-нуар",
+        "триллер",
+        "драма",
+        "мелодрама",
+        "криминал",
+        "детектив"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1945,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "170800",
+        "tmdb": null
+      },
+      "filename": "[apreder]The_Great_Flamarion(1945)DVB.mkv",
+      "torrent": "torrents/5f7de1b0-5855-4bdd-bb25-e63b40723fa2.torrent",
+      "size": 685193297,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/5f7de1b0-5855-4bdd-bb25-e63b40723fa2_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "b7e7b847-c450-4b7f-8b5e-083ec4dd4eb6",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Вне закона"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Док Холлидей идёт по следам человека, укравшего его любимую лошадь. Они приводят его в городок Линкольн штата Нью-Мексико, где шерифом только что избран старинный друг Дока Пэт Гарретт. Хозяин местного бара даёт им наводку, и они находят лошадь. А с ней и Билли Кида, которому она приглянулась. Но вопреки принципам Док не стремится расквитаться с молодым парнем, и дальше они следуют вместе, беспрестанно ссорясь из-за лошади и своей горячности. После вынужденного убийства, совершённого Билли, шериф хочет его арестовать, но Док отказывается помогать и встаёт на сторону нового приятеля. Однако Гарретту случайно удаётся подстрелить Билли, и Холлидей укрывает его в хижине своей девушки, индианки-полукровки Рио..."
+      },
+      "genres": [
+        "боевик",
+        "драма",
+        "приключения",
+        "вестерн"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1943,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "12482",
+        "tmdb": null
+      },
+      "filename": "vne.zakona.1941.dvdrip.1450mb.by.riperrr.avi",
+      "torrent": "torrents/b7e7b847-c450-4b7f-8b5e-083ec4dd4eb6.torrent",
+      "size": 1545246720,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/b7e7b847-c450-4b7f-8b5e-083ec4dd4eb6_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "8fd39974-cc19-4363-a2ea-c18801639e7d",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Второй хор"
+      },
+      "descriptions": null,
+      "genres": [
+        "мюзикл",
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1940,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "2085",
+        "tmdb": null
+      },
+      "filename": "Vtoroj_xor.avi",
+      "torrent": "torrents/8fd39974-cc19-4363-a2ea-c18801639e7d.torrent",
+      "size": 731881472,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/8fd39974-cc19-4363-a2ea-c18801639e7d_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "8401dfb8-2073-4f01-82f6-819265a6f0cd",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Глен или Гленда"
+      },
+      "descriptions": null,
+      "genres": [
+        "драма"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1953,
+      "external_ids": null,
+      "filename": "Glen or Glenda.avi",
+      "torrent": "torrents/8401dfb8-2073-4f01-82f6-819265a6f0cd.torrent",
+      "size": 733267968,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/8401dfb8-2073-4f01-82f6-819265a6f0cd_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "ca5bfee8-c185-494d-b81f-23e298f10d62",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Гнев на рассвете"
+      },
+      "descriptions": null,
+      "genres": [
+        "драма",
+        "вестерн"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1955,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "27935",
+        "tmdb": null
+      },
+      "filename": "Rage at Dawn.1955.avi",
+      "torrent": "torrents/ca5bfee8-c185-494d-b81f-23e298f10d62.torrent",
+      "size": 939976704,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/ca5bfee8-c185-494d-b81f-23e298f10d62_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "6bec784a-620c-4347-add3-c558621aba4c",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Горилла"
+      },
+      "descriptions": null,
+      "genres": [
+        "ужасы",
+        "комедия"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1939,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "32269",
+        "tmdb": null
+      },
+      "filename": "The Gorilla 1939",
+      "torrent": "torrents/6bec784a-620c-4347-add3-c558621aba4c.torrent",
+      "size": 730255209,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/6bec784a-620c-4347-add3-c558621aba4c_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "197c6c4d-4a66-431e-9477-7fd150af8fc3",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Горшок золота"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Джимми, разорившемуся владельцу музыкальной лавки, ничего не остаётся кроме как пойти работать на завод своего богатого дяди. Но по пути туда, его перехватила ирландская семья, которая своим постоянным пением и музыкой раздражала дядю Джимми. Вскоре он становится полноценным членом оркестра, и помогает им добиться успеха в то же время стараясь изменить натуру своего дяди, и добиться любви прелестной Молли."
+      },
+      "genres": [
+        "мюзикл",
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1941,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "2084",
+        "tmdb": null
+      },
+      "filename": "Pot.o.Gold.1941.1080p.WEB-DL.AAC2.0.x264.mkv",
+      "torrent": "torrents/197c6c4d-4a66-431e-9477-7fd150af8fc3.torrent",
+      "size": 3618410812,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/197c6c4d-4a66-431e-9477-7fd150af8fc3_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "f9578198-23e9-43fe-9aba-b28c2ecd6328",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Грех берёт выходной"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Молодой адвокат, дабы не попасть в ловушку брачной аферистки, уговаривает свою секретаршу заключить фиктивный брак и отправляет её на год в Париж. Оттуда она возвращается уже другим человеком."
+      },
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1930,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "27461",
+        "tmdb": null
+      },
+      "filename": "Sin Takes a Holiday 1930",
+      "torrent": "torrents/f9578198-23e9-43fe-9aba-b28c2ecd6328.torrent",
+      "size": 1471400732,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/f9578198-23e9-43fe-9aba-b28c2ecd6328_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "b079a69b-0f7a-4156-8b6a-2e6034d15d14",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Грошовая серенада"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Распалась семья... Джули Адамс, собрав вещи, хочет уйти из дома, но тут ей на глаза попадаются дешевые грампластинки, которые они с мужем Роджером Адамсом собирали во время совместной жизни. Она ставит одну пластинку, затем вторую и перед ее мысленным взором проходит их такое нелегкое прошлое...\n\nВсе началось с незапланированного и импульсивного брака с журналистом Роджером. Тогда все было хорошо, но вскоре произошла трагедия. Пребывая в длительной командировке в Японии, они переживают страшное землетрясение 1923 года. Из-за этого у Джули случился выкидыш, после которого она потеряла возможность иметь детей. После возвращения в США, Роджер становится редактором провинциальной газеты, и они решают усыновить ребенка. Однако, это оказывается нелегко.\n\nК счастью, им помогает добросердечная глава агентства по усыновлению - мисс Оливер. Однако, счастье снова было недолгим. В возрасте 6 лет их приемная дочь умирает. Брак Джули и Роджера на грани распада..."
+      },
+      "genres": [
+        "драма",
+        "мелодрама"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1941,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1007",
+        "tmdb": null
+      },
+      "filename": "torrent",
+      "torrent": "torrents/b079a69b-0f7a-4156-8b6a-2e6034d15d14.torrent",
+      "size": 734858914,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/b079a69b-0f7a-4156-8b6a-2e6034d15d14_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "fa50fe91-f165-48d5-8953-70f4462409d3",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Дезертиры"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Джерри Льюис играет несчастливого солдата, а Дин Мартин удачливого старшего сержанта неряшливого взвода на тренировочной базе в удаленном пограничном гарнизоне.\n\nВ этой комедии представлены все типы «военных» характеров, включая горлопана-инструктора, подлизу-сержанта, тихого капрала и неуклюжего, постоянно клюющего носом, командира..."
+      },
+      "genres": [
+        "мюзикл",
+        "комедия",
+        "военный"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1950,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "20394",
+        "tmdb": null
+      },
+      "filename": "groshovaya_serenada_745_[torrents.ru]_by_bm11.avi",
+      "torrent": "torrents/fa50fe91-f165-48d5-8953-70f4462409d3.torrent",
+      "size": 780974080,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/fa50fe91-f165-48d5-8953-70f4462409d3_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "5b4d5e48-a93c-4542-a1bd-a8709344759f",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Дождь"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Для жителей самоанской деревни Паго-Паго, жизнь проста, пока не прибыл корабль с двумя парами: миссионером Альфредом Дэвидсоном и доктором Робертом МакФэйлом с женами и с девушкой легкого поведения, которую звали Сэди Томпсон. Глава миссионеров Дэвидсон является больше, чем просто религиозным фанатиком, он сумасшедший человек. Когда корабль, который плыл в другой порт, сел на мель, пассажиров из-за возможной вспышки холеры на борту, высадили на остров.\n\nСэди не теряет время зря и устраивает «вечеринки» для американских солдат, дислоцированных на острове. Это шокирует чопорных жен, и они исходят ядом в своем «благочестивом» порыве порицания. Поведение девушки является вызовом и для Альфреда Дэвидсона и он мрачно настроен наставить на путь истинный беспутницу для спасения ее души…"
+      },
+      "genres": [
+        "драма"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1932,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "13044",
+        "tmdb": null
+      },
+      "filename": "dozhd_745_[torrents.ru]_by_bm11.avi",
+      "torrent": "torrents/5b4d5e48-a93c-4542-a1bd-a8709344759f.torrent",
+      "size": 781166592,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/5b4d5e48-a93c-4542-a1bd-a8709344759f_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "21b62563-6bc4-4e5a-abd0-9b55444f41ff",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Долина мести"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Среди бескрайних просторов зеленых долин, окруженных заснеженными вершинами непреступных гор дикого запада, есть небольшой поселок, в котором проживает семья фермеров Строби. После многомесячного отсутствия Оуэн Дэйбрайт, главный погонщик ранчо и его сводный брат Ли Строби возвращаются домой.\n\nИх ожидают новости и среди прочего они узнают что Лили — официантка из местной таверны родила ребенка от Ли. Однако молодая мать не сознается, кто отец ребенка, а новоиспеченный отец и вовсе не желает признать ребенка своим, ведь у него уже есть семья. Оуэн, последние годы ведя хозяйство на ферме за двоих, потому что его сводный брат не очень то хотел иметь лишние мозоли, решает покинуть эти места в поисках новой жизни.\n\nВ это же время в городок прибывают два разгневанных брата Лили, с целью найти незаконного отца ребенка и: или заставить его женится на ней, или убить. Подлый Ли делает все, чтобы свалить своё отцовство на брата и избежать мести родственников Лили, и в добавок задумал завладеть вс"
+      },
+      "genres": [
+        "вестерн"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1950,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "21041",
+        "tmdb": null
+      },
+      "filename": "dolina_mesti_745_[torrents.ru]_by_bm11.avi",
+      "torrent": "torrents/21b62563-6bc4-4e5a-abd0-9b55444f41ff.torrent",
+      "size": 782772224,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/21b62563-6bc4-4e5a-abd0-9b55444f41ff_poster.jpg"
+    }
+  ]
+}
