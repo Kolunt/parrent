@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-09-23T12:34:15.578225300+00:00",
+  "updated_at": "2026-09-23T14:59:04.595923+00:00",
   "items": [
     {
       "type": "series",
@@ -971,6 +971,206 @@
           "year": 2025,
           "season_number": 1,
           "torrent": "torrents/0d61440a-0308-4329-813a-18243953e02f.torrent",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "c5450a78-46f9-4b03-9410-6e40d1aa985e",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Каштановый человечек"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "На месте страшного убийства находят куколку из каштанов. По этой жутковатой улике два детектива пытаются разыскать убийцу, причастного к пропаже ребенка политика."
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "криминал"
+      ],
+      "countries": [
+        "Дания"
+      ],
+      "year": 2021,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1434190",
+        "tmdb": null
+      },
+      "poster": "assets/c5450a78-46f9-4b03-9410-6e40d1aa985e_poster.jpg",
+      "torrent": null,
+      "seasons": [
+        {
+          "type": "season",
+          "id": "c5450a78-46f9-4b03-9410-6e40d1aa985e-s1",
+          "titles": {
+            "en": null,
+            "ru": null,
+            "original": "Каштановый человечек"
+          },
+          "descriptions": {
+            "en": null,
+            "ru": null,
+            "original": "На месте страшного убийства находят куколку из каштанов. По этой жутковатой улике два детектива пытаются разыскать убийцу, причастного к пропаже ребенка политика."
+          },
+          "genres": [
+            "триллер",
+            "детектив",
+            "криминал"
+          ],
+          "countries": [
+            "Дания"
+          ],
+          "year": 2021,
+          "season_number": 1,
+          "torrent": "torrents/17fce321-62fb-4f26-85ca-4198c4525964.torrent",
+          "episodes": []
+        },
+        {
+          "type": "season",
+          "id": "c5450a78-46f9-4b03-9410-6e40d1aa985e-s2",
+          "titles": {
+            "en": null,
+            "ru": null,
+            "original": "Каштановый человечек"
+          },
+          "descriptions": {
+            "en": null,
+            "ru": null,
+            "original": "На месте страшного убийства находят куколку из каштанов. По этой жутковатой улике два детектива пытаются разыскать убийцу, причастного к пропаже ребенка политика."
+          },
+          "genres": [
+            "триллер",
+            "детектив",
+            "криминал"
+          ],
+          "countries": [
+            "Дания"
+          ],
+          "year": 2026,
+          "season_number": 2,
+          "torrent": "torrents/94e2d459-8cd8-4694-b169-8fe2381b140d.torrent",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "24b33eaf-781c-472c-aa74-dd4f9accfe38",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Механизмы"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Улле Хультен просыпается пьяным на пароме между Саннефьордом и Стрёмстадом. В его машине оружие и крупная сумма денег. В то же время полиция ищет грабителя, которой угнал машину и держит охранника в заложниках."
+      },
+      "genres": [
+        "боевик",
+        "триллер",
+        "детектив"
+      ],
+      "countries": [
+        "Швеция"
+      ],
+      "year": 2020,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1348396",
+        "tmdb": null
+      },
+      "poster": "assets/24b33eaf-781c-472c-aa74-dd4f9accfe38_poster.jpg",
+      "torrent": "torrents/2c646e62-4920-421a-9a95-ca719969bb1d.torrent",
+      "seasons": [
+        {
+          "type": "season",
+          "id": "24b33eaf-781c-472c-aa74-dd4f9accfe38-s1",
+          "titles": {
+            "en": null,
+            "ru": null,
+            "original": "Механизмы"
+          },
+          "descriptions": {
+            "en": null,
+            "ru": null,
+            "original": "Улле Хультен просыпается пьяным на пароме между Саннефьордом и Стрёмстадом. В его машине оружие и крупная сумма денег. В то же время полиция ищет грабителя, которой угнал машину и держит охранника в заложниках."
+          },
+          "genres": [
+            "боевик",
+            "триллер",
+            "детектив"
+          ],
+          "countries": [
+            "Швеция"
+          ],
+          "year": 2020,
+          "season_number": 1,
+          "torrent": "torrents/2c646e62-4920-421a-9a95-ca719969bb1d.torrent",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "165182ed-48d4-416b-a740-cebd2fd33800",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Волчье лето"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Офицер полиции шведского городка Ханна Вебстер сталкивается с ужасным открытием, когда в трупе волка находят человеческие останки. Но это открытие становится лишь первым в череде событий, которые потрясут провинциальный городок."
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ],
+      "countries": [
+        "Швеция"
+      ],
+      "year": 2024,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "7048637",
+        "tmdb": null
+      },
+      "poster": "assets/165182ed-48d4-416b-a740-cebd2fd33800_poster.jpg",
+      "torrent": "torrents/bfdf4808-25d0-4319-ba23-8a259ee35339.torrent",
+      "seasons": [
+        {
+          "type": "season",
+          "id": "165182ed-48d4-416b-a740-cebd2fd33800-s1",
+          "titles": {
+            "en": null,
+            "ru": null,
+            "original": "Волчье лето"
+          },
+          "descriptions": {
+            "en": null,
+            "ru": null,
+            "original": "Офицер полиции шведского городка Ханна Вебстер сталкивается с ужасным открытием, когда в трупе волка находят человеческие останки. Но это открытие становится лишь первым в череде событий, которые потрясут провинциальный городок."
+          },
+          "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+          ],
+          "countries": [
+            "Швеция"
+          ],
+          "year": 2024,
+          "season_number": 1,
+          "torrent": "torrents/bfdf4808-25d0-4319-ba23-8a259ee35339.torrent",
           "episodes": []
         }
       ]
