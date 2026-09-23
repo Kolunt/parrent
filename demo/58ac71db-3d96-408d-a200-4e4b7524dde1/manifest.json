@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-09-23T20:40:41.840976100+00:00",
+  "updated_at": "2026-09-23T22:33:19.068400+00:00",
   "items": [
     {
       "type": "series",
@@ -1793,6 +1793,116 @@
           "year": 2017,
           "season_number": 3,
           "torrent": "torrents/221a3629-74a6-43e7-8e04-398c9cdc3782.torrent",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "0d0cb646-16ae-404b-8297-dbbdd821ef03",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Получеловек"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Найл и Рубен подружились в 1980-е годы, будучи подростками, но со временем их пути разошлись. Спустя десятилетия Рубен появляется на свадьбе Найла и нападает на него. Произошедшее заставляет мужчин вспомнить и переосмыслить почти 40 лет дружбы."
+      },
+      "genres": [
+        "драма"
+      ],
+      "countries": [
+        "Великобритания",
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "7919289",
+        "tmdb": null
+      },
+      "poster": "assets/0d0cb646-16ae-404b-8297-dbbdd821ef03_poster.jpg",
+      "torrent": "torrents/6ced481f-ff86-4d67-9bd2-89fe38e44933.torrent",
+      "seasons": [
+        {
+          "type": "season",
+          "id": "0d0cb646-16ae-404b-8297-dbbdd821ef03-s1",
+          "titles": {
+            "en": null,
+            "ru": null,
+            "original": "Получеловек"
+          },
+          "descriptions": {
+            "en": null,
+            "ru": null,
+            "original": "Найл и Рубен подружились в 1980-е годы, будучи подростками, но со временем их пути разошлись. Спустя десятилетия Рубен появляется на свадьбе Найла и нападает на него. Произошедшее заставляет мужчин вспомнить и переосмыслить почти 40 лет дружбы."
+          },
+          "genres": [
+            "драма"
+          ],
+          "countries": [
+            "Великобритания",
+            "США"
+          ],
+          "year": 2026,
+          "season_number": 1,
+          "torrent": "torrents/6ced481f-ff86-4d67-9bd2-89fe38e44933.torrent",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "dafbb122-ef27-4f38-8309-7939443fc7b1",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Чужие грехи"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Жизнь Джозефа рушится, когда его бывшая жена переезжает в Австралию с маленьким сыном. Джозеф отправляется в Ирландию на поиски сестры Анны, с которой не виделся больше 30 лет. На родине в его памяти всплывает ужасный инцидент из прошлого."
+      },
+      "genres": [
+        "драма"
+      ],
+      "countries": [
+        "Великобритания"
+      ],
+      "year": 2019,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1244897",
+        "tmdb": null
+      },
+      "poster": "assets/dafbb122-ef27-4f38-8309-7939443fc7b1_poster.jpg",
+      "torrent": "torrents/57c0efc2-46df-4fda-8dd8-b87243012e28.torrent",
+      "seasons": [
+        {
+          "type": "season",
+          "id": "dafbb122-ef27-4f38-8309-7939443fc7b1-s1",
+          "titles": {
+            "en": null,
+            "ru": null,
+            "original": "Чужие грехи"
+          },
+          "descriptions": {
+            "en": null,
+            "ru": null,
+            "original": "Жизнь Джозефа рушится, когда его бывшая жена переезжает в Австралию с маленьким сыном. Джозеф отправляется в Ирландию на поиски сестры Анны, с которой не виделся больше 30 лет. На родине в его памяти всплывает ужасный инцидент из прошлого."
+          },
+          "genres": [
+            "драма"
+          ],
+          "countries": [
+            "Великобритания"
+          ],
+          "year": 2019,
+          "season_number": 1,
+          "torrent": "torrents/57c0efc2-46df-4fda-8dd8-b87243012e28.torrent",
           "episodes": []
         }
       ]
