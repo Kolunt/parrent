@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-09-23T11:42:51.233218500+00:00",
+  "updated_at": "2026-09-23T12:06:02.614892200+00:00",
   "items": [
     {
       "type": "movie",
@@ -455,6 +455,49 @@
         "subtitles": []
       },
       "poster": "assets/a8a8909c-0d03-4542-bbc3-677683bd4f96_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "acabb55b-0623-4418-a705-5ca78e43676f",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Мастер и Маргарита"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Москва, 1930-е годы. Популярный драматург обвиняется в антисоветчине: спектакль по его пьесе отменяют, а самого его выгоняют из союза литераторов. В не самый лучший момент своей жизни он встречает глубоко несчастную в браке красавицу Маргариту и начинает новый роман, героями которого становятся люди из его окружения, в том числе — мистический персонаж Воланд, списанный со знакомого иностранца."
+      },
+      "genres": [
+        "драма",
+        "фэнтези",
+        "мелодрама"
+      ],
+      "countries": [
+        "Россия"
+      ],
+      "year": 2023,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1115471",
+        "tmdb": null
+      },
+      "filename": "Мастер и Маргарита_2023_HDRip.avi",
+      "torrent": "torrents/acabb55b-0623-4418-a705-5ca78e43676f.torrent",
+      "size": 2343303168,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/acabb55b-0623-4418-a705-5ca78e43676f_poster.jpg"
     }
   ]
 }
