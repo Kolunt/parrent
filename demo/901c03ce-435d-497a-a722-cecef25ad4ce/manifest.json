@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-09-23T16:34:42.673909400+00:00",
+  "updated_at": "2026-09-23T20:40:28.965716700+00:00",
   "items": [
     {
       "type": "movie",
@@ -674,6 +674,48 @@
         "subtitles": []
       },
       "poster": "assets/e4a4a5a6-e684-4517-95c4-6f7fea3ddb8b_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "12d93722-c9be-4779-ab32-854e14f0784c",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Оставленные (2023)"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Декабрь 1970 года. Ученики академии Бартон, престижной закрытой школы для мальчиков, разъезжаются на рождественские каникулы, но несколько неудачников, родители которых не могут или не хотят их забирать, вынуждены остаться на кампусе. Присматривать за ребятами назначен ненавистный учитель истории мистер Ханэм — принципиальный приверженец строгих педагогических методов, и повариха Мэри, скорбящая по погибшему во Вьетнаме сыну."
+      },
+      "genres": [
+        "драма",
+        "комедия"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2023,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "4499386",
+        "tmdb": null
+      },
+      "filename": "The.Holdovers.2023.MVO.HDRip.1.46Gb.MegaPeer",
+      "torrent": "torrents/12d93722-c9be-4779-ab32-854e14f0784c.torrent",
+      "size": 1567523691,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/12d93722-c9be-4779-ab32-854e14f0784c_poster.jpg"
     }
   ]
 }
