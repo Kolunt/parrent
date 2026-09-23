@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-09-23T15:45:52.856234+00:00",
+  "updated_at": "2026-09-23T16:34:42.673909400+00:00",
   "items": [
     {
       "type": "movie",
@@ -628,6 +628,52 @@
         "subtitles": []
       },
       "poster": "assets/027a3d7a-098c-4a1a-885c-021ca885ed57_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "e4a4a5a6-e684-4517-95c4-6f7fea3ddb8b",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Вход в пустоту"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "20-летний Оскар и его 18-летняя сестра Линда живут в Токио. Пока Оскар торгует наркотиками, Линда танцует стриптиз в ночном клубе. Однажды во время полицейской облавы Оскар получает пулю и, пока он умирает, его душа, верная обещанию никогда не оставлять сестру, отказывается покидать этот мир. Беспокойный дух парня скитается по городу, преследуемый невыносимыми кошмарами и галлюцинациями."
+      },
+      "genres": [
+        "фэнтези",
+        "драма"
+      ],
+      "countries": [
+        "Франция",
+        "Германия",
+        "Италия",
+        "Канада",
+        "Япония"
+      ],
+      "year": 2009,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "406477",
+        "tmdb": null
+      },
+      "filename": "Vhod.V.Pustotu.2009.BDRip.All.Films.RG.avi",
+      "torrent": "torrents/e4a4a5a6-e684-4517-95c4-6f7fea3ddb8b.torrent",
+      "size": 2343520256,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/e4a4a5a6-e684-4517-95c4-6f7fea3ddb8b_poster.jpg"
     }
   ]
 }
