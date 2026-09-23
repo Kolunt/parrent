@@ -1,0 +1,460 @@
+{
+  "version": "1.0",
+  "id": "901c03ce-435d-497a-a722-cecef25ad4ce",
+  "type": "collection",
+  "names": {
+    "en": "Films",
+    "ru": null,
+    "original": null
+  },
+  "descriptions": null,
+  "genres": null,
+  "external_ids": null,
+  "poster": null,
+  "backdrop": null,
+  "external_url": null,
+  "updated_at": "2026-09-23T11:42:51.233218500+00:00",
+  "items": [
+    {
+      "type": "movie",
+      "id": "f9c36a10-92bf-46a3-94da-9f21408f7e4a",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Бойцовский клуб"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Сотрудник страховой компании страдает хронической бессонницей и отчаянно пытается вырваться из мучительно скучной жизни. Однажды в очередной командировке он встречает некоего Тайлера Дёрдена — харизматического торговца мылом с извращенной философией. Тайлер уверен, что самосовершенствование — удел слабых, а единственное, ради чего стоит жить, — саморазрушение.\n\nПроходит немного времени, и вот уже новые друзья лупят друг друга почем зря на стоянке перед баром, и очищающий мордобой доставляет им высшее блаженство. Приобщая других мужчин к простым радостям физической жестокости, они основывают тайный Бойцовский клуб, который начинает пользоваться невероятной популярностью."
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ],
+      "countries": [
+        "США",
+        "Германия"
+      ],
+      "year": 1999,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "361",
+        "tmdb": null
+      },
+      "filename": "Boytsovskiy_club.avi",
+      "torrent": "torrents/f9c36a10-92bf-46a3-94da-9f21408f7e4a.torrent",
+      "size": 1566877696,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/f9c36a10-92bf-46a3-94da-9f21408f7e4a_poster.jpg"
+    },
+    {
+      "type": "shortfilm",
+      "id": "1be763ee-f918-4074-aba3-9925d21a5c33",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Трудно быть богом"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Рассказ о судьбе, предрешённости и одновременно — о непредсказуемости жизни. Некое человекообразное существо падает сверху в проулок. У него чёткая миссия — исправить глупую случайность, которую исправить невозможно. Но, изменив одно, он понимает, что невольно меняет и другое."
+      },
+      "genres": [
+        "короткометражка",
+        "фэнтези",
+        "комедия"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2005,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "178201",
+        "tmdb": null
+      },
+      "filename": "Spin (2005) - Double Edge Films (Jamin Winans) - DVDRemux.mkv",
+      "torrent": "torrents/1be763ee-f918-4074-aba3-9925d21a5c33.torrent",
+      "size": 367805596,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/1be763ee-f918-4074-aba3-9925d21a5c33_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "33e8ffb2-9b31-477f-a0aa-2847f46f2742",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Властелины вселенной"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Адам, 10-летний принц с планеты Этерния, терпит крушение на космическом корабле и попадает на Землю. Спустя 15 лет принц отправляется на родную планету, которая теперь находится под гнётом Скелетора. Чтобы одолеть опасного противника, Адаму предстоит раскрыть своё прошлое, объединить силы с союзниками и стать Хи-Меном — самым могущественным человеком во Вселенной."
+      },
+      "genres": [
+        "фантастика",
+        "фэнтези",
+        "боевик",
+        "приключения"
+      ],
+      "countries": [
+        "США",
+        "Австралия",
+        "Канада",
+        "Исландия"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "88124",
+        "tmdb": null
+      },
+      "filename": "Властелины вселенной.2026.WEB-DLRip",
+      "torrent": "torrents/33e8ffb2-9b31-477f-a0aa-2847f46f2742.torrent",
+      "size": 2332341840,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/33e8ffb2-9b31-477f-a0aa-2847f46f2742_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "83833a09-4fbf-422e-b7c2-a08753a3aa66",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Одиссея"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "После Троянской войны Одиссей, царь Итаки, во главе небольшого войска возвращается домой к своей жене Пенелопе. На своём пути Одиссей сталкивается со множеством испытаний, встречает циклопов, сирен и великанов-людоедов."
+      },
+      "genres": [
+        "фэнтези",
+        "боевик",
+        "приключения"
+      ],
+      "countries": [
+        "Великобритания",
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "6385370",
+        "tmdb": null
+      },
+      "filename": "The Odyssey (2026, ru_MVO,dub+en+es_hardsub).mkv",
+      "torrent": "torrents/83833a09-4fbf-422e-b7c2-a08753a3aa66.torrent",
+      "size": 2953490576,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/83833a09-4fbf-422e-b7c2-a08753a3aa66_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "db0ff9d0-82c2-4c44-a4aa-d7463bb1daae",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Создатель"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Повсеместное применение искусственного интеллекта привело к тому, что в Лос-Анджелесе произошёл ядерный взрыв. С тех пор коллективный Запад во главе с США ведёт непримиримую войну на уничтожение ИИ, но блок стран Юго-Восточной Азии — Новая Азия — живёт в гармонии с роботами и сдаваться не собирается. В 2065 году спецназовец Джошуа находился в тылу врага с целью отыскать главного создателя ИИ, известного под именем Нирмата, и втёрся в доверие настолько, что женился на учёной Майе и с нетерпением ждал рождения ребёнка. Но во время нападения американцев и ракетного удара главной надежды Запада на победу — военной орбитальной станции NOMAD — его жена погибла.\n\nПять лет спустя Джошуа вынужден вернуться в Новую Азию, чтобы помочь отряду военных найти Нирмату и его лабораторию, где, по данным разведки, разработано новейшее оружие, способное уничтожить NOMAD."
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2023,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "4499408",
+        "tmdb": null
+      },
+      "filename": "The.Creator.2023.D.BDRip.2.18Gb.MegaPeer",
+      "torrent": "torrents/db0ff9d0-82c2-4c44-a4aa-d7463bb1daae.torrent",
+      "size": 2345749726,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/db0ff9d0-82c2-4c44-a4aa-d7463bb1daae_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "bedb30b0-a092-4b1f-a174-1f64687b0778",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Старикам тут не место"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Обычный работяга обнаруживает в пустыне гору трупов, набитый героином грузовик и соблазнительную сумму в два миллиона долларов наличными. Он решает взять деньги себе, и результатом становится волна насилия, которую не может остановить вся полиция Западного Техаса."
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "вестерн"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2007,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "195434",
+        "tmdb": null
+      },
+      "filename": "Starikam_tut_ne_mesto.avi",
+      "torrent": "torrents/bedb30b0-a092-4b1f-a174-1f64687b0778.torrent",
+      "size": 1566259200,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/bedb30b0-a092-4b1f-a174-1f64687b0778_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "299d7c0d-2c35-4f9a-a94d-b66c46924018",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Ворон"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Рассказ о последних днях жизни Эдгара Аллана По. Знаменитый поэт преследует серийного убийцу, чьи преступления очень похожи на те, что описаны в его произведениях."
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "детектив"
+      ],
+      "countries": [
+        "США",
+        "Испания",
+        "Венгрия"
+      ],
+      "year": 2011,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "470268",
+        "tmdb": null
+      },
+      "filename": "Voron.2012.BDRip-AVC.mkv",
+      "torrent": "torrents/299d7c0d-2c35-4f9a-a94d-b66c46924018.torrent",
+      "size": 2345000111,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/299d7c0d-2c35-4f9a-a94d-b66c46924018_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "93758c49-d0f3-4a40-a8e5-9574609d25a4",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Инвалид"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Сварливый мастер на все руки по имени Лацко теряет всё из-за кучки бандитов. Теперь он прикован к инвалидному креслу, и его жизнь катится по наклонной. Но вскоре у Лацко появляется новый друг — цыган, который помогает ему по-другому посмотреть на жизнь. В голове Лацко созревает план мести обидчикам."
+      },
+      "genres": [
+        "комедия",
+        "криминал"
+      ],
+      "countries": [
+        "Словакия"
+      ],
+      "year": 2023,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5365088",
+        "tmdb": null
+      },
+      "filename": "Инвалид_2023_HDRip.avi",
+      "torrent": "torrents/93758c49-d0f3-4a40-a8e5-9574609d25a4.torrent",
+      "size": 1564069888,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/93758c49-d0f3-4a40-a8e5-9574609d25a4_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "6e0fed88-1ca5-4e2d-b2f4-f0098914491b",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "День разоблачения"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Бывший сотрудник секретной правительственной организации Дэниэл Келлнер вместе со своей девушкой бежит от бывших работодателей. Он украл некие секретные материалы и считает, что их содержимое должно быть обнародовано. Тем временем Маргарет Фэйрчайлд, обычная ведущая прогноза погоды на канзасском телеканале, внезапно начинает говорить на нескольких языках, а в прямом эфире издаёт странные цокающие звуки и теряет сознание. Врачи не находят у неё ничего подозрительного, и, сбежав из больницы, Маргарет вдруг понимает, что ей нужно найти Келлнера."
+      },
+      "genres": [
+        "фантастика",
+        "триллер"
+      ],
+      "countries": [
+        "США",
+        "Канада",
+        "Новая Зеландия",
+        "Япония"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "4510025",
+        "tmdb": null
+      },
+      "filename": "День разоблачения.2026.WEB-DLRip.WinMedia.avi",
+      "torrent": "torrents/6e0fed88-1ca5-4e2d-b2f4-f0098914491b.torrent",
+      "size": 2332493824,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/6e0fed88-1ca5-4e2d-b2f4-f0098914491b_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "a8a8909c-0d03-4542-bbc3-677683bd4f96",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Проект «Конец света»"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Микробиолог Райленд Грейс просыпается на космическом корабле, не помня ни себя, ни свою миссию. Мужчина выясняет, что он — единственный выживший из экипажа, отправленного к звезде Тау Кита в поисках спасения от катастрофы на Земле. Чтобы найти решение, Райленду предстоит положиться на свои обширные научные знания и изобретательность, но, возможно, ему не придётся искать в одиночку."
+      },
+      "genres": [
+        "фантастика",
+        "комедия",
+        "драма",
+        "приключения"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1382256",
+        "tmdb": null
+      },
+      "filename": "Project.Hail.Mary.2026.WEBRip.XviD.avi",
+      "torrent": "torrents/a8a8909c-0d03-4542-bbc3-677683bd4f96.torrent",
+      "size": 2342064128,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/a8a8909c-0d03-4542-bbc3-677683bd4f96_poster.jpg"
+    }
+  ]
+}
