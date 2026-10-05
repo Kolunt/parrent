@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-09-24T16:02:12.635439200+00:00",
+  "updated_at": "2026-10-05T09:27:39.821418700+00:00",
   "items": [
     {
       "type": "movie",
@@ -1910,6 +1910,478 @@
         "subtitles": []
       },
       "poster": "assets/7339a221-92e4-41c1-b8fa-962ed3f6b18d_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "5367ce1b-3c80-445a-a642-8f220a9daa19",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Зеленая миля"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Пол Эджкомб — начальник блока смертников в тюрьме «Холодная гора», каждый из узников которого однажды проходит «зеленую милю» по пути к месту казни. Пол повидал много заключённых и надзирателей за время работы. Однако гигант Джон Коффи, обвинённый в страшном преступлении, стал одним из самых необычных обитателей блока."
+      },
+      "genres": [
+        "драма",
+        "фэнтези",
+        "криминал"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 1999,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "435",
+        "tmdb": null
+      },
+      "filename": "Zelenaja.Milja.1999.HDRip.avi",
+      "torrent": "torrents/5367ce1b-3c80-445a-a642-8f220a9daa19.torrent",
+      "size": 1571633152,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/5367ce1b-3c80-445a-a642-8f220a9daa19_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "bbc725c9-627a-41c8-b0d2-6ebf7923c03a",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Обитель зла"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Незадачливому курьеру поручено доставить посылку в отдалённую больницу. Там парень оказывается в эпицентре вспышки неизвестного вируса и теперь вынужден сражаться с ордами мутировавших существ."
+      },
+      "genres": [
+        "ужасы",
+        "боевик"
+      ],
+      "countries": [
+        "Германия",
+        "США",
+        "Чехия",
+        "Канада",
+        "Австралия",
+        "Новая Зеландия",
+        "Франция"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "7378605",
+        "tmdb": null
+      },
+      "filename": "Resident.Evil.2026.1080p.x264.TS.MVO.mkv",
+      "torrent": "torrents/bbc725c9-627a-41c8-b0d2-6ebf7923c03a.torrent",
+      "size": 1471352787,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/bbc725c9-627a-41c8-b0d2-6ebf7923c03a_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "da625589-f21f-4569-b134-f12df09d53b4",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Связанные насмерть"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "В недалёком будущем условно-досрочное освобождение заменяет экспериментальная государственная программа. Финансовый преступник получает шанс выйти на свободу лишь при одном условии — его жизнь будет навсегда связана с неизлечимо больным гангстером-социопатом. В сердца обоих вживляются взрывные устройства, и любая ошибка одного означает смерть для обоих. Теперь двум совершенно разным людям предстоит проявлять крайнюю осторожность и сделать всё возможное, чтобы выжить."
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "13457403",
+        "tmdb": null
+      },
+      "filename": "Связанные насмерть_2026_WEB-DLRip-AVC.mkv",
+      "torrent": "torrents/da625589-f21f-4569-b134-f12df09d53b4.torrent",
+      "size": 1566787312,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/da625589-f21f-4569-b134-f12df09d53b4_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "16aa82c2-2b2a-4dd3-a6a8-5d0059eabc9a",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Мэйдэй"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "1987 год, разгар Холодной войны. Лейтенант ВМС США Трой «Ассасин» Келли отправляется на секретное задание на территорию СССР, но операция срывается, и пилот оказывается один за линией врага. Его обнаруживает Николай Устинов, суровый бывший агент КГБ с неожиданной любовью к американской культуре. То, что начинается как смертельно опасная встреча, постепенно превращается в странный союз, способный изменить судьбу обоих."
+      },
+      "genres": [
+        "боевик",
+        "комедия",
+        "приключения"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "6446910",
+        "tmdb": null
+      },
+      "filename": "Мэйдэй.2026.WEB-DLRip-AVC.x264.seleZen.mkv",
+      "torrent": "torrents/16aa82c2-2b2a-4dd3-a6a8-5d0059eabc9a.torrent",
+      "size": 2236086168,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/16aa82c2-2b2a-4dd3-a6a8-5d0059eabc9a_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "e7b60f7b-54c5-44b3-81e1-73a1500abb2f",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Холоп"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "27-летний московский мажор Григорий ошалел от безнаказанности. Богатый папа стабильно его отмазывает, да так, что уже обновил автопарк и оборудование отделению полиции, где служит начальником его друг. После очередной выходки терпение отца иссякает, и он обращается к психологу, практикующему шоковые методы воздействия на пациентов.\n\nВскоре сынуля попадает в аварию и приходит в себя на деревенской конюшне. На дворе — Россия 1860 года, а сам он — бесправный конюх Гришка, которому за любую провинность и ослушание всегда готовы всыпать плетей, а то и вздёрнуть на глазах у всего честного народа."
+      },
+      "genres": [
+        "комедия",
+        "мелодрама"
+      ],
+      "countries": [
+        "Россия"
+      ],
+      "year": 2019,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1183582",
+        "tmdb": null
+      },
+      "filename": "Xolop_2019_WEB-DLRip-AVC_by_Dalemake.mkv",
+      "torrent": "torrents/e7b60f7b-54c5-44b3-81e1-73a1500abb2f.torrent",
+      "size": 1562615613,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/e7b60f7b-54c5-44b3-81e1-73a1500abb2f_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "d33390d3-08f7-49b3-b799-0a37e7c7aa08",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Холоп 2"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Гриша, бывший мажор, побывавший холопом и ставший человеком, после путешествия в «прошлое» чутко реагирует на любую несправедливость. И, конечно, не может пройти мимо беспредела, который творит наглая и избалованная Катя. Ничего удивительного, что вскоре мажорка обнаруживает себя в другом времени."
+      },
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "Россия"
+      ],
+      "year": 2023,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5047468",
+        "tmdb": null
+      },
+      "filename": "Holop.2.WEB-DLRip.Сибиряк.avi",
+      "torrent": "torrents/d33390d3-08f7-49b3-b799-0a37e7c7aa08.torrent",
+      "size": 1587179520,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/d33390d3-08f7-49b3-b799-0a37e7c7aa08_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "36129266-6772-425b-af34-ce3604e6ca10",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Холоп 3"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Супруги Лена и Борис Вяземские готовы продать семейную компанию, развестись и скорее забыть друг друга. Только вот у их детей совсем другие планы: Милана и Елисей обращаются к Грише и его команде, чтобы спасти семью. Теперь мажоры будут перевоспитываться в эпоху Петра I: морские приключения и опасности заставят их переосмыслить свое собственное прошлое и осознать, что нет ничего важнее семьи."
+      },
+      "genres": [
+        "комедия",
+        "приключения"
+      ],
+      "countries": [
+        "Россия"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "8477754",
+        "tmdb": null
+      },
+      "filename": "Холоп 3_2026_WEB-DLRip-AVC.mkv",
+      "torrent": "torrents/36129266-6772-425b-af34-ce3604e6ca10.torrent",
+      "size": 1567876441,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/36129266-6772-425b-af34-ce3604e6ca10_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "3cce8300-1fc1-47c1-88e6-950c8d2366b5",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Холоп из Парижа"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Луи — избалованный мажор, который все свое время развлекается в клубах, безостановочно тратя деньги своего отца, генерального директора группы отелей класса люкс.\n\nУстав от выходок сына, отец решает преподать ему урок: он заставляет Луи поверить, что тот перенесся во времена Людовика XIV, примерно на три с половиной столетия назад."
+      },
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "Франция"
+      ],
+      "year": 2024,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5949652",
+        "tmdb": null
+      },
+      "filename": "Холоп из Парижа_2024_WEB-DLRip-AVC.mkv",
+      "torrent": "torrents/3cce8300-1fc1-47c1-88e6-950c8d2366b5.torrent",
+      "size": 1568467227,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/3cce8300-1fc1-47c1-88e6-950c8d2366b5_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "344504ea-5036-4373-b5ca-1999407ca832",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Холоп. Великолепный век"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Мете — избалованный стамбульский мажор, жизнь которого состоит из бесконечных вечеринок, траты денег отца и абсолютно безответственного поведения. После очередной выходки терпение отца иссякает, и он обращается к психологу, практикующему шоковые методы воздействия на пациентов. Вместо русской деревни XIX века Мете попадет в османский XVI век и очнется конюхом в замке вельможи времен султана Сулеймана."
+      },
+      "genres": [
+        "комедия",
+        "мелодрама"
+      ],
+      "countries": [
+        "Турция",
+        "Россия"
+      ],
+      "year": 2024,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5495322",
+        "tmdb": null
+      },
+      "filename": "Holop.Velikolepnyj.vek.2024.Dub.WEB-DLRip.ELEKTRI4KA.avi",
+      "torrent": "torrents/344504ea-5036-4373-b5ca-1999407ca832.torrent",
+      "size": 1568114688,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/344504ea-5036-4373-b5ca-1999407ca832_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "458fa6c7-d55a-4b8a-bceb-09150a0c775a",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Холоп. Однажды в Монголии"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "Дамиран — избалованный сын богатых родителей, который не знает слова «нет». Он уверен, что деньгами можно решить любую проблему, и совершенно не думает о своем будущем. Отец Дамирана устал от такого поведения сына и решает проучить парня, поэтому устраивает для него испытание. Однажды Дамиран просыпается в монгольской деревне и узнает, что перенесся назад во времени. Теперь он — бедный крестьянин, который должен трудиться на благо общества. Богачу придется изменить свои привычки и научиться смирению, чтобы не умереть с голоду."
+      },
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "Монголия"
+      ],
+      "year": 2023,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5435024",
+        "tmdb": null
+      },
+      "filename": "Bayan.bool.2023.WEB-DLRip.1.46Gb_от New-Team_by_JNS82",
+      "torrent": "torrents/458fa6c7-d55a-4b8a-bceb-09150a0c775a.torrent",
+      "size": 1571529494,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/458fa6c7-d55a-4b8a-bceb-09150a0c775a_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "a2bac2e7-d1ec-4865-94d1-23f9e728dd39",
+      "titles": {
+        "en": null,
+        "ru": null,
+        "original": "Унабомбер"
+      },
+      "descriptions": {
+        "en": null,
+        "ru": null,
+        "original": "1995 год. ФБР больше 15 лет тщетно пытается поймать террориста по прозвищу Унабомбер, который рассылает по почте взрывные устройства, из-за чего погибли 3 человека и десятки получили ранения. Агент Джоэнн Миллер пытается найти зацепки и вычислить преступника, исследуя опубликованный в прессе манифест Унабомбера. Однажды она получает наводку от коллег из другого штата, которая может привести к подозреваемому."
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "криминал",
+        "биография"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1045479",
+        "tmdb": null
+      },
+      "filename": "Унабомбер (2026) WEB-DLRip-AVC_ivanes.mkv",
+      "torrent": "torrents/a2bac2e7-d1ec-4865-94d1-23f9e728dd39.torrent",
+      "size": 2300329441,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/a2bac2e7-d1ec-4865-94d1-23f9e728dd39_poster.jpg"
     }
   ]
 }
