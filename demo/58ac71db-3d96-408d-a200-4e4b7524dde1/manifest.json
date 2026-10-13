@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-10-08T21:26:27.041538300+00:00",
+  "updated_at": "2026-10-13T10:50:32.989005900+00:00",
   "items": [
     {
       "type": "series",
@@ -68,7 +68,7 @@
           ],
           "year": 2008,
           "season_number": 1,
-          "torrent": "torrents/74938224-03fc-4adc-94bc-24c764bae851.torrent",
+          "torrent": "torrents/63cc98d6-d337-450f-af8c-9bdda66123ef.torrent",
           "episodes": []
         },
         {
@@ -94,7 +94,7 @@
           ],
           "year": 2009,
           "season_number": 2,
-          "torrent": "torrents/f113e459-37f8-4b27-9b4a-e305d25d3519.torrent",
+          "torrent": "torrents/f58c6a78-8046-4938-973a-3e05a531aedf.torrent",
           "episodes": []
         },
         {
@@ -120,7 +120,7 @@
           ],
           "year": 2010,
           "season_number": 3,
-          "torrent": "torrents/efa08b98-b681-46eb-9835-052d87caf5a6.torrent",
+          "torrent": "torrents/7ff94f1e-f67e-400f-b9bf-486cd53d7837.torrent",
           "episodes": []
         },
         {
@@ -146,7 +146,7 @@
           ],
           "year": 2011,
           "season_number": 4,
-          "torrent": "torrents/cc615b3b-c57a-488f-81e8-e2464c005e52.torrent",
+          "torrent": "torrents/6d740e70-2e6a-4259-a7e8-bb90b7c19b19.torrent",
           "episodes": []
         },
         {
@@ -172,7 +172,7 @@
           ],
           "year": 2013,
           "season_number": 5,
-          "torrent": "torrents/ed148c4c-32bd-4dd9-8440-3262f75aab4a.torrent",
+          "torrent": "torrents/70ac6f6d-d863-4d87-a40a-26a411b49f0b.torrent",
           "episodes": []
         }
       ]
@@ -230,7 +230,7 @@
           ],
           "year": 2023,
           "season_number": 1,
-          "torrent": "torrents/a7e25908-3884-40e4-ad89-94712b88017c.torrent",
+          "torrent": "torrents/8f567369-cc17-44dd-9d2c-610e63081206.torrent",
           "episodes": []
         },
         {
@@ -256,7 +256,7 @@
           ],
           "year": 2024,
           "season_number": 2,
-          "torrent": "torrents/dc5cedc3-431d-4352-a45d-8a7668908f56.torrent",
+          "torrent": "torrents/d0eb5c54-69f9-439c-a7ca-1f7b39be9d21.torrent",
           "episodes": []
         },
         {
@@ -282,7 +282,7 @@
           ],
           "year": 2026,
           "season_number": 3,
-          "torrent": "torrents/bacac271-93de-47da-a4e3-b331e30d80ad.torrent",
+          "torrent": "torrents/d0463998-c181-41f1-8e07-98b94f27ae9a.torrent",
           "episodes": []
         }
       ]
@@ -342,7 +342,7 @@
           ],
           "year": 2022,
           "season_number": 1,
-          "torrent": "torrents/462c42ba-d916-4cbd-a864-33e3dab90a65.torrent",
+          "torrent": "torrents/4b195503-a582-4198-9ee4-43b8e74d7518.torrent",
           "episodes": []
         },
         {
@@ -369,7 +369,7 @@
           ],
           "year": 2024,
           "season_number": 2,
-          "torrent": "torrents/7c2da46a-9baf-432c-bf8e-46e751a00472.torrent",
+          "torrent": "torrents/12f32923-1eff-40a0-a1b5-98c1e3791e53.torrent",
           "episodes": []
         },
         {
@@ -396,7 +396,7 @@
           ],
           "year": 2026,
           "season_number": 3,
-          "torrent": "torrents/d96cbdf8-b1f0-4d98-a203-62999ef699b2.torrent",
+          "torrent": "torrents/93259aec-2913-4305-ac95-e1871478747f.torrent",
           "episodes": []
         }
       ]
@@ -452,7 +452,7 @@
           ],
           "year": 2021,
           "season_number": 1,
-          "torrent": "torrents/139457dc-5210-43b0-887a-91819fe01a20.torrent",
+          "torrent": "torrents/e3373158-703c-4e04-9e48-65d111236dd9.torrent",
           "episodes": []
         },
         {
@@ -477,7 +477,7 @@
           ],
           "year": 2023,
           "season_number": 2,
-          "torrent": "torrents/6ed8389f-3ae1-4408-95bc-2499f113fcb5.torrent",
+          "torrent": "torrents/ced1d4ef-9f50-49cf-b8ca-74e494b6bc59.torrent",
           "episodes": []
         },
         {
@@ -502,7 +502,7 @@
           ],
           "year": 2025,
           "season_number": 3,
-          "torrent": "torrents/90011099-6d99-4e91-b1c4-531c4e0c2014.torrent",
+          "torrent": "torrents/fef54d38-f74a-4e17-ba7a-f595c37176a9.torrent",
           "episodes": []
         }
       ]
@@ -535,7 +535,7 @@
         "tmdb": null
       },
       "poster": "assets/10c148bc-0942-4f24-ac0c-a0411cfa8ba4_poster.jpg",
-      "torrent": "torrents/dbfe4658-7e09-4582-94e7-52a57ea0b484.torrent",
+      "torrent": "torrents/3a01bd88-e40f-4eb0-9960-35d6604a2f71.torrent",
       "seasons": [
         {
           "type": "season",
@@ -560,7 +560,7 @@
           ],
           "year": 2026,
           "season_number": 1,
-          "torrent": "torrents/dbfe4658-7e09-4582-94e7-52a57ea0b484.torrent",
+          "torrent": "torrents/3a01bd88-e40f-4eb0-9960-35d6604a2f71.torrent",
           "episodes": []
         }
       ]
@@ -624,7 +624,7 @@
           ],
           "year": 1993,
           "season_number": 1,
-          "torrent": "torrents/1e88418c-57bf-4721-aad2-c6ceea5a8acf.torrent",
+          "torrent": "torrents/486ff41e-96bb-4112-91e1-7f1cb9ab444a.torrent",
           "episodes": []
         },
         {
@@ -653,7 +653,7 @@
           ],
           "year": 1994,
           "season_number": 2,
-          "torrent": "torrents/d1a51df3-e80c-4951-bd24-0260aee68c95.torrent",
+          "torrent": "torrents/76e81e59-2fcd-48cc-bb4c-3a3fb4565d61.torrent",
           "episodes": []
         },
         {
@@ -682,7 +682,7 @@
           ],
           "year": 1995,
           "season_number": 3,
-          "torrent": "torrents/2cb13703-adab-4669-985d-1651ebb4b2ca.torrent",
+          "torrent": "torrents/68e0bec5-fe1f-4590-956e-026f60a55fd6.torrent",
           "episodes": []
         },
         {
@@ -711,7 +711,7 @@
           ],
           "year": 1996,
           "season_number": 4,
-          "torrent": "torrents/eda9f023-3570-4f8c-b81f-775b03da0970.torrent",
+          "torrent": "torrents/5c31b5c2-12df-40ad-9320-b607a2dc38a0.torrent",
           "episodes": []
         },
         {
@@ -740,7 +740,7 @@
           ],
           "year": 1997,
           "season_number": 5,
-          "torrent": "torrents/24d8ab4d-d74e-4388-80d3-fd0b20b04bb2.torrent",
+          "torrent": "torrents/0f7d3b02-287e-46aa-877f-5b309a47f163.torrent",
           "episodes": []
         },
         {
@@ -769,7 +769,7 @@
           ],
           "year": 1998,
           "season_number": 6,
-          "torrent": "torrents/b6c249c8-7ab8-4c3e-9656-2c748ddc35b9.torrent",
+          "torrent": "torrents/66c6e626-9271-4bfe-9c46-8aa002719a81.torrent",
           "episodes": []
         },
         {
@@ -798,7 +798,7 @@
           ],
           "year": 1999,
           "season_number": 7,
-          "torrent": "torrents/68756635-a6c4-4950-87c1-c75a324f7a71.torrent",
+          "torrent": "torrents/be9f1076-2588-4997-b6f0-e0a23717df9e.torrent",
           "episodes": []
         },
         {
@@ -827,7 +827,7 @@
           ],
           "year": 2000,
           "season_number": 8,
-          "torrent": "torrents/65877c9c-3248-470a-8a4d-c5d33c739d81.torrent",
+          "torrent": "torrents/3d387e7a-99f2-4f2d-835d-f2d60a30bf5c.torrent",
           "episodes": []
         },
         {
@@ -856,7 +856,7 @@
           ],
           "year": 2001,
           "season_number": 9,
-          "torrent": "torrents/d01c0299-736d-4ddd-8c34-6acad4475888.torrent",
+          "torrent": "torrents/947f8939-132c-42a1-b38b-58014ff5891a.torrent",
           "episodes": []
         },
         {
@@ -885,7 +885,7 @@
           ],
           "year": 2016,
           "season_number": 10,
-          "torrent": "torrents/90ed402b-0b23-408b-9828-8a9590d9a5c4.torrent",
+          "torrent": "torrents/93f639e9-0f5c-40bf-91bc-f8a2d011e49b.torrent",
           "episodes": []
         },
         {
@@ -914,7 +914,7 @@
           ],
           "year": 2018,
           "season_number": 11,
-          "torrent": "torrents/84bc3b71-2f9d-41c8-b8e0-9e93a3dfebbd.torrent",
+          "torrent": "torrents/b5fd8680-60e7-47fd-82b0-a05b092e410a.torrent",
           "episodes": []
         }
       ]
@@ -946,7 +946,7 @@
         "tmdb": null
       },
       "poster": "assets/bbe5cebb-4352-411b-8830-d5f961d09137_poster.jpg",
-      "torrent": "torrents/0d61440a-0308-4329-813a-18243953e02f.torrent",
+      "torrent": "torrents/14d47955-6512-4503-9978-6c46ea6d7475.torrent",
       "seasons": [
         {
           "type": "season",
@@ -970,7 +970,7 @@
           ],
           "year": 2025,
           "season_number": 1,
-          "torrent": "torrents/0d61440a-0308-4329-813a-18243953e02f.torrent",
+          "torrent": "torrents/14d47955-6512-4503-9978-6c46ea6d7475.torrent",
           "episodes": []
         }
       ]
@@ -1028,7 +1028,7 @@
           ],
           "year": 2021,
           "season_number": 1,
-          "torrent": "torrents/17fce321-62fb-4f26-85ca-4198c4525964.torrent",
+          "torrent": "torrents/30de537f-db7e-479f-93ae-2d8b3df86472.torrent",
           "episodes": []
         },
         {
@@ -1054,7 +1054,7 @@
           ],
           "year": 2026,
           "season_number": 2,
-          "torrent": "torrents/94e2d459-8cd8-4694-b169-8fe2381b140d.torrent",
+          "torrent": "torrents/b3d5ef79-b037-4ed6-bcc0-bd8a1df85432.torrent",
           "episodes": []
         }
       ]
@@ -1087,7 +1087,7 @@
         "tmdb": null
       },
       "poster": "assets/24b33eaf-781c-472c-aa74-dd4f9accfe38_poster.jpg",
-      "torrent": "torrents/2c646e62-4920-421a-9a95-ca719969bb1d.torrent",
+      "torrent": "torrents/5312af22-ad19-4ec1-9732-ee58d744b6c4.torrent",
       "seasons": [
         {
           "type": "season",
@@ -1112,7 +1112,7 @@
           ],
           "year": 2020,
           "season_number": 1,
-          "torrent": "torrents/2c646e62-4920-421a-9a95-ca719969bb1d.torrent",
+          "torrent": "torrents/5312af22-ad19-4ec1-9732-ee58d744b6c4.torrent",
           "episodes": []
         }
       ]
@@ -1145,7 +1145,7 @@
         "tmdb": null
       },
       "poster": "assets/165182ed-48d4-416b-a740-cebd2fd33800_poster.jpg",
-      "torrent": "torrents/bfdf4808-25d0-4319-ba23-8a259ee35339.torrent",
+      "torrent": "torrents/343f736d-5ddf-445d-bc10-bcaa3ed08348.torrent",
       "seasons": [
         {
           "type": "season",
@@ -1170,7 +1170,7 @@
           ],
           "year": 2024,
           "season_number": 1,
-          "torrent": "torrents/bfdf4808-25d0-4319-ba23-8a259ee35339.torrent",
+          "torrent": "torrents/343f736d-5ddf-445d-bc10-bcaa3ed08348.torrent",
           "episodes": []
         }
       ]
@@ -1234,7 +1234,7 @@
           ],
           "year": 2005,
           "season_number": 1,
-          "torrent": "torrents/e159dfd9-e36e-47b5-8466-345177d4715c.torrent",
+          "torrent": "torrents/0ecdb9a7-0b9b-4199-9050-f8c8a3c96082.torrent",
           "episodes": []
         },
         {
@@ -1263,7 +1263,7 @@
           ],
           "year": 2006,
           "season_number": 2,
-          "torrent": "torrents/9061696f-7da1-4249-b62d-d8849e849a13.torrent",
+          "torrent": "torrents/000314be-0bb1-4e85-b32e-f1f61718e40b.torrent",
           "episodes": []
         },
         {
@@ -1292,7 +1292,7 @@
           ],
           "year": 2007,
           "season_number": 3,
-          "torrent": "torrents/4ba2479e-e377-4369-b6cb-2df715205d2b.torrent",
+          "torrent": "torrents/26582c77-3a91-485f-b71a-338f790dd0f6.torrent",
           "episodes": []
         },
         {
@@ -1321,7 +1321,7 @@
           ],
           "year": 2008,
           "season_number": 4,
-          "torrent": "torrents/dbf68633-dbb9-436e-bdeb-e344ddf38e72.torrent",
+          "torrent": "torrents/7cf7be94-cb53-4795-9afd-ba96d81dbbb8.torrent",
           "episodes": []
         },
         {
@@ -1350,7 +1350,7 @@
           ],
           "year": 2017,
           "season_number": 5,
-          "torrent": "torrents/d8e49a30-fcda-4087-9f5d-a31395bf8793.torrent",
+          "torrent": "torrents/1f536cdc-6d56-4457-9687-360e6aae9160.torrent",
           "episodes": []
         }
       ]
@@ -1408,7 +1408,7 @@
           ],
           "year": 2022,
           "season_number": 1,
-          "torrent": "torrents/011cf47e-7290-4ea4-96f6-328872cbb3da.torrent",
+          "torrent": "torrents/20dfea77-f65d-4225-a22e-12bc75d0a06e.torrent",
           "episodes": []
         },
         {
@@ -1434,7 +1434,7 @@
           ],
           "year": 2024,
           "season_number": 2,
-          "torrent": "torrents/244a916e-1807-49e2-a7fe-7160c3199abb.torrent",
+          "torrent": "torrents/29c76a2a-1b2d-4140-a1f2-a1ea99e117dd.torrent",
           "episodes": []
         }
       ]
@@ -1496,7 +1496,7 @@
           ],
           "year": 2022,
           "season_number": 1,
-          "torrent": "torrents/cf5b4b98-fcfa-48ad-be72-e9d920d132af.torrent",
+          "torrent": "torrents/1062db1c-8c66-4cd4-8a47-d6afa89285f2.torrent",
           "episodes": []
         },
         {
@@ -1524,7 +1524,7 @@
           ],
           "year": 2023,
           "season_number": 2,
-          "torrent": "torrents/b7de1125-16ba-4fa6-ab41-6fa9837ea0e0.torrent",
+          "torrent": "torrents/31c23441-24d0-4e50-a3db-b2a554b68037.torrent",
           "episodes": []
         },
         {
@@ -1552,7 +1552,7 @@
           ],
           "year": 2024,
           "season_number": 3,
-          "torrent": "torrents/f7a57d5c-257a-4646-9b38-b8ee85993315.torrent",
+          "torrent": "torrents/de6ff2a4-1864-466c-8e9c-2d00e4bf422c.torrent",
           "episodes": []
         },
         {
@@ -1580,7 +1580,7 @@
           ],
           "year": 2026,
           "season_number": 4,
-          "torrent": "torrents/72e9fd6f-e19c-4d17-a5da-777cc7c6dc10.torrent",
+          "torrent": "torrents/8a917e7a-4a86-45ee-8fec-a9c13129e728.torrent",
           "episodes": []
         }
       ]
@@ -1636,7 +1636,7 @@
           ],
           "year": 2021,
           "season_number": 1,
-          "torrent": "torrents/244fd894-a8d8-4744-8c25-4a18ea11223e.torrent",
+          "torrent": "torrents/691cff63-da3a-4b21-92d6-3b22b2660393.torrent",
           "episodes": []
         },
         {
@@ -1661,7 +1661,7 @@
           ],
           "year": 2023,
           "season_number": 2,
-          "torrent": "torrents/b5a15f26-8626-4379-aea4-41efadce930c.torrent",
+          "torrent": "torrents/0d0db8ed-298a-453b-9c9d-7d17704fd524.torrent",
           "episodes": []
         },
         {
@@ -1686,7 +1686,7 @@
           ],
           "year": 2025,
           "season_number": 3,
-          "torrent": "torrents/e751997b-71fa-4345-90f0-079295a0316f.torrent",
+          "torrent": "torrents/065cdd08-8d6b-4221-83a8-1ed045cccd93.torrent",
           "episodes": []
         }
       ]
@@ -1742,7 +1742,7 @@
           ],
           "year": 2014,
           "season_number": 1,
-          "torrent": "torrents/f65e2e1f-bb1d-4464-8b42-31636d6f565a.torrent",
+          "torrent": "torrents/4bf77eea-22b7-4926-9769-4548489413e9.torrent",
           "episodes": []
         },
         {
@@ -1767,7 +1767,7 @@
           ],
           "year": 2015,
           "season_number": 2,
-          "torrent": "torrents/c9735fe2-3123-4d87-bfa5-be2365966b31.torrent",
+          "torrent": "torrents/4f6bb103-e3c4-4e96-8a39-af5439270faa.torrent",
           "episodes": []
         },
         {
@@ -1792,7 +1792,7 @@
           ],
           "year": 2017,
           "season_number": 3,
-          "torrent": "torrents/221a3629-74a6-43e7-8e04-398c9cdc3782.torrent",
+          "torrent": "torrents/6385bcba-15cd-4196-8c47-e549c860a0c3.torrent",
           "episodes": []
         }
       ]
@@ -1824,7 +1824,7 @@
         "tmdb": null
       },
       "poster": "assets/0d0cb646-16ae-404b-8297-dbbdd821ef03_poster.jpg",
-      "torrent": "torrents/6ced481f-ff86-4d67-9bd2-89fe38e44933.torrent",
+      "torrent": "torrents/a34af9da-c88b-4ae3-ab01-dbd05ff4e193.torrent",
       "seasons": [
         {
           "type": "season",
@@ -1848,7 +1848,7 @@
           ],
           "year": 2026,
           "season_number": 1,
-          "torrent": "torrents/6ced481f-ff86-4d67-9bd2-89fe38e44933.torrent",
+          "torrent": "torrents/a34af9da-c88b-4ae3-ab01-dbd05ff4e193.torrent",
           "episodes": []
         }
       ]
@@ -1879,7 +1879,7 @@
         "tmdb": null
       },
       "poster": "assets/dafbb122-ef27-4f38-8309-7939443fc7b1_poster.jpg",
-      "torrent": "torrents/57c0efc2-46df-4fda-8dd8-b87243012e28.torrent",
+      "torrent": "torrents/cdea62c4-36e9-4d1c-9887-2cde8058c737.torrent",
       "seasons": [
         {
           "type": "season",
@@ -1902,7 +1902,7 @@
           ],
           "year": 2019,
           "season_number": 1,
-          "torrent": "torrents/57c0efc2-46df-4fda-8dd8-b87243012e28.torrent",
+          "torrent": "torrents/cdea62c4-36e9-4d1c-9887-2cde8058c737.torrent",
           "episodes": []
         }
       ]
@@ -1939,7 +1939,7 @@
         "tmdb": null
       },
       "poster": "assets/ee5d5bc2-c6ae-4fa4-9c1e-1b31c871fc02_poster.jpg",
-      "torrent": "torrents/9ed5ca83-e445-4734-afe5-dcfcd7b14bab.torrent",
+      "torrent": "torrents/a028383e-c2b7-4ebf-8706-ed1baaa2781d.torrent",
       "seasons": [
         {
           "type": "season",
@@ -1968,7 +1968,7 @@
           ],
           "year": 2013,
           "season_number": 1,
-          "torrent": "torrents/9ed5ca83-e445-4734-afe5-dcfcd7b14bab.torrent",
+          "torrent": "torrents/a028383e-c2b7-4ebf-8706-ed1baaa2781d.torrent",
           "episodes": []
         },
         {
@@ -1998,7 +1998,7 @@
           ],
           "year": 2014,
           "season_number": 2,
-          "torrent": "torrents/9ed5ca83-e445-4734-afe5-dcfcd7b14bab.torrent",
+          "torrent": "torrents/a028383e-c2b7-4ebf-8706-ed1baaa2781d.torrent",
           "episodes": []
         },
         {
@@ -2028,7 +2028,7 @@
           ],
           "year": 2015,
           "season_number": 3,
-          "torrent": "torrents/9ed5ca83-e445-4734-afe5-dcfcd7b14bab.torrent",
+          "torrent": "torrents/a028383e-c2b7-4ebf-8706-ed1baaa2781d.torrent",
           "episodes": []
         }
       ]
@@ -2066,7 +2066,7 @@
         "tmdb": null
       },
       "poster": "assets/850e3fc7-871f-47d6-94be-a8b3ce0ffd98_poster.jpg",
-      "torrent": "torrents/031d92ef-0289-49e0-af99-f5ea5a126f0b.torrent",
+      "torrent": "torrents/c9a2e381-2bb7-4121-9478-4d28d3eebbe5.torrent",
       "seasons": [
         {
           "type": "season",
@@ -2096,7 +2096,7 @@
           ],
           "year": 1999,
           "season_number": 1,
-          "torrent": "torrents/031d92ef-0289-49e0-af99-f5ea5a126f0b.torrent",
+          "torrent": "torrents/c9a2e381-2bb7-4121-9478-4d28d3eebbe5.torrent",
           "episodes": []
         }
       ]
@@ -2154,7 +2154,7 @@
           ],
           "year": 2023,
           "season_number": 1,
-          "torrent": "torrents/c81e7bca-1c58-4b19-bee4-fb4868df336f.torrent",
+          "torrent": "torrents/ef4cf282-551f-4bdf-b4b4-7df0aa88bba6.torrent",
           "episodes": []
         },
         {
@@ -2180,7 +2180,7 @@
           ],
           "year": 2025,
           "season_number": 2,
-          "torrent": "torrents/87a07a61-bfde-4551-827b-73a6f834b805.torrent",
+          "torrent": "torrents/9162056a-5ab6-419b-ad4a-f692f6941760.torrent",
           "episodes": []
         }
       ]
@@ -2212,7 +2212,7 @@
         "tmdb": null
       },
       "poster": "assets/0db96e65-4f10-4a61-aff0-bf41387af581_poster.jpg",
-      "torrent": "torrents/6ee802a6-7473-4377-872c-80a64f4ce986.torrent",
+      "torrent": "torrents/86b75345-7bbd-405b-9686-8d84cfbc3864.torrent",
       "seasons": [
         {
           "type": "season",
@@ -2236,7 +2236,7 @@
           ],
           "year": 2024,
           "season_number": 1,
-          "torrent": "torrents/6ee802a6-7473-4377-872c-80a64f4ce986.torrent",
+          "torrent": "torrents/86b75345-7bbd-405b-9686-8d84cfbc3864.torrent",
           "episodes": []
         }
       ]
@@ -2268,7 +2268,7 @@
         "tmdb": null
       },
       "poster": "assets/f8293ea7-cd0e-4b42-b74b-338b36cfbd91_poster.jpg",
-      "torrent": "torrents/4e443e9a-a6ab-4e65-a2dd-5f1decc1cd0d.torrent",
+      "torrent": "torrents/6b95c573-1d95-43b4-a228-f33ce0e2f142.torrent",
       "seasons": [
         {
           "type": "season",
@@ -2292,7 +2292,7 @@
           ],
           "year": 2022,
           "season_number": 1,
-          "torrent": "torrents/4e443e9a-a6ab-4e65-a2dd-5f1decc1cd0d.torrent",
+          "torrent": "torrents/6b95c573-1d95-43b4-a228-f33ce0e2f142.torrent",
           "episodes": []
         }
       ]
@@ -2326,7 +2326,7 @@
         "tmdb": null
       },
       "poster": "assets/c715e42f-8ba9-48ad-a908-53cb29913b59_poster.jpg",
-      "torrent": "torrents/2c93d539-fc98-4f5d-b093-2eb597a0b2c2.torrent",
+      "torrent": "torrents/117e34e0-c10d-4b64-bd87-b1e7f6b3c6ad.torrent",
       "seasons": [
         {
           "type": "season",
@@ -2352,7 +2352,7 @@
           ],
           "year": 2005,
           "season_number": 1,
-          "torrent": "torrents/2c93d539-fc98-4f5d-b093-2eb597a0b2c2.torrent",
+          "torrent": "torrents/117e34e0-c10d-4b64-bd87-b1e7f6b3c6ad.torrent",
           "episodes": []
         }
       ]
@@ -2386,7 +2386,7 @@
         "tmdb": null
       },
       "poster": "assets/9a813667-e6bf-4d85-9394-9cec1df6ff22_poster.jpg",
-      "torrent": "torrents/0766a84b-318c-409c-8f77-550685ea3baf.torrent",
+      "torrent": "torrents/19190e8e-883c-439e-9b82-7f95b1e0739e.torrent",
       "seasons": [
         {
           "type": "season",
@@ -2412,7 +2412,7 @@
           ],
           "year": 2021,
           "season_number": 1,
-          "torrent": "torrents/0766a84b-318c-409c-8f77-550685ea3baf.torrent",
+          "torrent": "torrents/19190e8e-883c-439e-9b82-7f95b1e0739e.torrent",
           "episodes": []
         }
       ]
@@ -2470,7 +2470,7 @@
           ],
           "year": 2015,
           "season_number": 1,
-          "torrent": "torrents/bb0776e6-9054-4f89-8b12-a4276aebfb59.torrent",
+          "torrent": "torrents/9ac63467-e575-4551-9dae-9bdfff4e171a.torrent",
           "episodes": []
         },
         {
@@ -2496,7 +2496,255 @@
           ],
           "year": 2023,
           "season_number": 2,
-          "torrent": "torrents/409b1295-15f5-450d-9441-a2e3d146c22a.torrent",
+          "torrent": "torrents/21534cf4-1350-4c59-b65b-613669701061.torrent",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "d823b3c8-8084-429a-8ae7-026795e39b79",
+      "titles": {
+        "en": "Мертвая зона",
+        "ru": null,
+        "original": ""
+      },
+      "descriptions": {
+        "en": "Вильфранш-небольшой городок без телефонной связи на краю таинственного леса. Число жителей сокращается, но наблюдается резкий рост преступности. Инспектор полиции Лорен Вайс, когда-то сама жертва преступления, продолжает обнаруживать новые трупы.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "ужасы",
+        "триллер",
+        "драма",
+        "криминал",
+        "детектив"
+      ],
+      "countries": [
+        "Франция",
+        "Бельгия"
+      ],
+      "year": 2017,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1117978",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.6
+      },
+      "poster": "assets/d823b3c8-8084-429a-8ae7-026795e39b79_poster.jpg",
+      "torrent": null,
+      "seasons": [
+        {
+          "type": "season",
+          "id": "d823b3c8-8084-429a-8ae7-026795e39b79-s1",
+          "titles": {
+            "en": "Мертвая зона",
+            "ru": null,
+            "original": ""
+          },
+          "descriptions": {
+            "en": "Вильфранш-небольшой городок без телефонной связи на краю таинственного леса. Число жителей сокращается, но наблюдается резкий рост преступности. Инспектор полиции Лорен Вайс, когда-то сама жертва преступления, продолжает обнаруживать новые трупы.",
+            "ru": null,
+            "original": null
+          },
+          "genres": [
+            "ужасы",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+          ],
+          "countries": [
+            "Франция",
+            "Бельгия"
+          ],
+          "year": 2017,
+          "season_number": 1,
+          "torrent": "torrents/db24e2bb-355d-47c4-9488-7c890405148c.torrent",
+          "episodes": []
+        },
+        {
+          "type": "season",
+          "id": "d823b3c8-8084-429a-8ae7-026795e39b79-s2",
+          "titles": {
+            "en": "Мертвая зона",
+            "ru": null,
+            "original": ""
+          },
+          "descriptions": {
+            "en": "Вильфранш-небольшой городок без телефонной связи на краю таинственного леса. Число жителей сокращается, но наблюдается резкий рост преступности. Инспектор полиции Лорен Вайс, когда-то сама жертва преступления, продолжает обнаруживать новые трупы.",
+            "ru": null,
+            "original": null
+          },
+          "genres": [
+            "ужасы",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+          ],
+          "countries": [
+            "Франция",
+            "Бельгия"
+          ],
+          "year": 2019,
+          "season_number": 2,
+          "torrent": "torrents/27bc8134-63d6-4eed-b5bb-c8e91e37f52b.torrent",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "93446a19-1134-48d3-b3f4-c81b182d5869",
+      "titles": {
+        "en": "Чёрный снег",
+        "ru": null,
+        "original": ""
+      },
+      "descriptions": {
+        "en": "В 1994 году была убита семнадцатилетняя Изабель Бейкер. Преступление потрясло небольшой городок Эшфорд и опустошило австралийскую общину жителей островов Южного моря, где жила Изабель. Дело так и не было раскрыто, убийца так и не найден. В 2019 году открытие капсулы времени раскрывает секрет, который выводит детектива Джеймса Кормака на след убийцы.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "драма",
+        "криминал",
+        "детектив"
+      ],
+      "countries": [
+        "Австралия"
+      ],
+      "year": 2023,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5122387",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.9
+      },
+      "poster": "assets/93446a19-1134-48d3-b3f4-c81b182d5869_poster.jpg",
+      "torrent": "torrents/088ba8d5-9ee3-44be-8b41-8caa7728f94c.torrent",
+      "seasons": [
+        {
+          "type": "season",
+          "id": "93446a19-1134-48d3-b3f4-c81b182d5869-s1",
+          "titles": {
+            "en": "Чёрный снег",
+            "ru": null,
+            "original": ""
+          },
+          "descriptions": {
+            "en": "В 1994 году была убита семнадцатилетняя Изабель Бейкер. Преступление потрясло небольшой городок Эшфорд и опустошило австралийскую общину жителей островов Южного моря, где жила Изабель. Дело так и не было раскрыто, убийца так и не найден. В 2019 году открытие капсулы времени раскрывает секрет, который выводит детектива Джеймса Кормака на след убийцы.",
+            "ru": null,
+            "original": null
+          },
+          "genres": [
+            "драма",
+            "криминал",
+            "детектив"
+          ],
+          "countries": [
+            "Австралия"
+          ],
+          "year": 2023,
+          "season_number": 1,
+          "torrent": "torrents/088ba8d5-9ee3-44be-8b41-8caa7728f94c.torrent",
+          "episodes": []
+        },
+        {
+          "type": "season",
+          "id": "93446a19-1134-48d3-b3f4-c81b182d5869-s2",
+          "titles": {
+            "en": "Чёрный снег",
+            "ru": null,
+            "original": ""
+          },
+          "descriptions": {
+            "en": "В 1994 году была убита семнадцатилетняя Изабель Бейкер. Преступление потрясло небольшой городок Эшфорд и опустошило австралийскую общину жителей островов Южного моря, где жила Изабель. Дело так и не было раскрыто, убийца так и не найден. В 2019 году открытие капсулы времени раскрывает секрет, который выводит детектива Джеймса Кормака на след убийцы.",
+            "ru": null,
+            "original": null
+          },
+          "genres": [
+            "драма",
+            "криминал",
+            "детектив"
+          ],
+          "countries": [
+            "Австралия"
+          ],
+          "year": 2025,
+          "season_number": 2,
+          "torrent": "torrents/088ba8d5-9ee3-44be-8b41-8caa7728f94c.torrent",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "037227cd-c7fd-49f6-bdb7-2710e6b2df7a",
+      "titles": {
+        "en": "Бодкин",
+        "ru": null,
+        "original": ""
+      },
+      "descriptions": {
+        "en": "Подкастеры приезжают в прибрежный ирландский городок, чтобы расследовать загадочное исчезновение трех человек. Американец Гилберт в восторге от поездки: он видит все в розовом цвете и надеется заодно найти здесь свои ирландские корни. А вот его напарница — дублинская журналистка Дав — замечает, что вокруг творится какая-то чертовщина.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "комедия",
+        "детектив"
+      ],
+      "countries": [
+        "Ирландия",
+        "США"
+      ],
+      "year": 2024,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5010965",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.7
+      },
+      "poster": "assets/037227cd-c7fd-49f6-bdb7-2710e6b2df7a_poster.jpg",
+      "torrent": "torrents/092838eb-8c48-4d6f-9dbb-4ac264a05d6f.torrent",
+      "seasons": [
+        {
+          "type": "season",
+          "id": "037227cd-c7fd-49f6-bdb7-2710e6b2df7a-s1",
+          "titles": {
+            "en": "Бодкин",
+            "ru": null,
+            "original": ""
+          },
+          "descriptions": {
+            "en": "Подкастеры приезжают в прибрежный ирландский городок, чтобы расследовать загадочное исчезновение трех человек. Американец Гилберт в восторге от поездки: он видит все в розовом цвете и надеется заодно найти здесь свои ирландские корни. А вот его напарница — дублинская журналистка Дав — замечает, что вокруг творится какая-то чертовщина.",
+            "ru": null,
+            "original": null
+          },
+          "genres": [
+            "триллер",
+            "драма",
+            "комедия",
+            "детектив"
+          ],
+          "countries": [
+            "Ирландия",
+            "США"
+          ],
+          "year": 2024,
+          "season_number": 1,
+          "torrent": "torrents/092838eb-8c48-4d6f-9dbb-4ac264a05d6f.torrent",
           "episodes": []
         }
       ]
