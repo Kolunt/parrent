@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-10-05T11:02:23.065879800+00:00",
+  "updated_at": "2026-10-22T08:45:13.937152700+00:00",
   "items": [
     {
       "type": "movie",
@@ -2473,6 +2473,470 @@
         "subtitles": []
       },
       "poster": "assets/fcdc2b46-1b89-4565-b608-2792fcf0babd_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "cc05fa26-9ca9-407c-a233-c013b7277db8",
+      "titles": {
+        "en": "Горничная",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Милли устраивается прислугой с проживанием к состоятельной семье Винчестер, живущей в загородном особняке. Девушка только что вышла по УДО, и ей необходима эта работа, но находить общий язык с хозяйкой Ниной становится всё сложнее: та заметно не в себе и регулярно к ней цепляется. Зато её супруг Эндрю — само очарование. Мужчина сглаживает любые конфликты и, кажется, положил глаз на Милли.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "6750360",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.6
+      },
+      "filename": "Горничная_2025_WEB-DLRip",
+      "torrent": "torrents/cc05fa26-9ca9-407c-a233-c013b7277db8.torrent",
+      "size": 1565542648,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/cc05fa26-9ca9-407c-a233-c013b7277db8_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "8900c640-484b-4d71-b4bb-6fa02349bd7c",
+      "titles": {
+        "en": "На вершине",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Экстремалка Саша переживает смерть близкого и отправляется в одиночное путешествие по Австралии, намереваясь покорить бурную реку. Однако неожиданным образом главной угрозой жизни женщины оказывается не природа, а человек. Оказавшись в глуши, Саша становится целью отморозка, который любит охотиться на людей.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "боевик",
+        "триллер"
+      ],
+      "countries": [
+        "Канада",
+        "Австралия",
+        "США",
+        "Исландия"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "6553387",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.3
+      },
+      "filename": "Вершина (2026) WEB-DLRip-AVC_ivanes.mkv",
+      "torrent": "torrents/8900c640-484b-4d71-b4bb-6fa02349bd7c.torrent",
+      "size": 2125490357,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/8900c640-484b-4d71-b4bb-6fa02349bd7c_poster.webp"
+    },
+    {
+      "type": "movie",
+      "id": "842b5893-62c2-47b3-9b79-5e0e18e7bd2e",
+      "titles": {
+        "en": "Кто-то должен умереть",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Две семейные пары отправляются вместе провести выходные в загородном доме. Казалось бы, им предстоит отдых от города в тёплой атмосфере, но одна из женщин знает страшную тайну и решает сыграть с неверным мужем и его любовницей в игру. Они должны доказать, что по-настоящему любят друг друга, а иначе — кто-то должен умереть.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер"
+      ],
+      "countries": [
+        "Россия"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "6385584",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.2
+      },
+      "filename": "Kto-to dolzhen umeret_2025_WEB-DL 1080p.mkv",
+      "torrent": "torrents/842b5893-62c2-47b3-9b79-5e0e18e7bd2e.torrent",
+      "size": 2432772385,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/842b5893-62c2-47b3-9b79-5e0e18e7bd2e_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "3dc80b9f-20a1-441e-a0bc-5b297a3de09e",
+      "titles": {
+        "en": "Гуру",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Матье Вассер — стремительно набирающий популярность харизматичный коуч по личностному росту и взаимоотношениям. Его успех будоражит массы и одновременно вызывает беспокойство у окружающих. Матье не подозревает, что тайный враг готовит ему испытание, способное разрушить его жизнь. Предстоит выяснить, сможет ли кумир миллионов выйти победителем в самой опасной игре в своей жизни.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер"
+      ],
+      "countries": [
+        "Франция",
+        "Бельгия"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "9225250",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.4
+      },
+      "filename": "Гуру_2025_HDRip",
+      "torrent": "torrents/3dc80b9f-20a1-441e-a0bc-5b297a3de09e.torrent",
+      "size": 1565215820,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/3dc80b9f-20a1-441e-a0bc-5b297a3de09e_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "cf23f2e7-d9eb-4657-9c84-5d1dc16b2afa",
+      "titles": {
+        "en": "Лакомый кусок",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Майами. Убита сотрудница опергруппы отдела по борьбе с наркотиками. ФБР допрашивает её коллег, полагая, что кто-то из них может быть причастен к убийству. Тем же вечером опергруппа по наводке отправляется в пригородный дом, где могут быть спрятаны деньги наркокартеля, но на месте вместо нескольких сотен тысяч обнаруживается гораздо большая сумма. Напряжение нарастает, оперативникам начинают поступать звонки с угрозами, и, кажется, среди них притаился предатель.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "6398494",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.6
+      },
+      "filename": "The.Rip.2026.WEB-DLRip - New-Team",
+      "torrent": "torrents/cf23f2e7-d9eb-4657-9c84-5d1dc16b2afa.torrent",
+      "size": 1571104274,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/cf23f2e7-d9eb-4657-9c84-5d1dc16b2afa_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "bb15be7a-a204-4356-928a-5ce9f7b8e082",
+      "titles": {
+        "en": "Чума",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "2003 год. Родители отправляют 12-летнего Бена в летний лагерь по водному поло, где он оказывается втянут в травлю одного из ребят. Ставший целью издевательств Илай страдает акне, и каждый сверстник должен избегать его, а в случае прикосновения оттереть и отмыть пострадавший участок кожи, чтобы не заразиться «чумой». Бен разрывается между желанием быть частью коллектива и сопереживанием жертве травли.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "драма",
+        "триллер"
+      ],
+      "countries": [
+        "Австралия",
+        "ОАЭ",
+        "США",
+        "Румыния"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "7605808",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.4
+      },
+      "filename": "Чума_2025_WEB-DLRip.avi",
+      "torrent": "torrents/bb15be7a-a204-4356-928a-5ce9f7b8e082.torrent",
+      "size": 1566253056,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/bb15be7a-a204-4356-928a-5ce9f7b8e082_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "2c48d00b-f2c6-4418-aedb-0063811ada60",
+      "titles": {
+        "en": "Битва за битвой",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "В 2000-х Пэт Калхун вместе со своей девушкой состоял в леворадикальной экстремистской группировке, и когда во время одного из их налётов произошло убийство, боевые товарищи были вынуждены порознь пуститься в бега. 16 лет спустя мужчина живёт в Южной Калифорнии под именем Боб Фергюсон и воспитывает дочь-подростка, которой из-за постоянной паранойи запрещает даже иметь мобильный телефон. Опасения Боба оказываются не напрасными, когда старый противник полковник Локджо открывает на них с дочерью охоту.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "боевик",
+        "триллер",
+        "драма",
+        "криминал"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5437094",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.0
+      },
+      "filename": "One.Battle.After.Another.2025.Dub.HDRip.1.46GB.MegaPeer",
+      "torrent": "torrents/2c48d00b-f2c6-4418-aedb-0063811ada60.torrent",
+      "size": 1568279336,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/2c48d00b-f2c6-4418-aedb-0063811ada60_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "c461db37-5245-41a7-bcd2-7328c4d7881f",
+      "titles": {
+        "en": "Громовержцы*",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Бывшие преступники и несостоявшиеся герои по одиночке работают на Валентину Аллегру Де Фонтейн, главу ЦРУ. Валентина отправляет на задания Елену Белову, Джона Уокера, Аву Старр и Антонию Дрейкову заметать следы незаконных экспериментов над людьми. Однажды Валентина посылает их всех на один секретный объект с целью предотвратить кражу секретных данных. Четверо оперативников встречаются и понимают, что им приказали убить друг друга, потому что они оказались последними свидетелями преступлений Валентины.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "фантастика",
+        "боевик"
+      ],
+      "countries": [
+        "США",
+        "Австралия",
+        "Канада"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5001443",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.8
+      },
+      "filename": "Thunderbolts.2025.Dub.WEB-DLRip.1.46GB.MegaPeer",
+      "torrent": "torrents/c461db37-5245-41a7-bcd2-7328c4d7881f.torrent",
+      "size": 1577278268,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/c461db37-5245-41a7-bcd2-7328c4d7881f_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "6b329272-8eb1-4a06-9246-df4bba2c027d",
+      "titles": {
+        "en": "Пойман с поличным",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "1998 год, Нью-Йорк. Хэнк — подававший надежды бейсболист, так и не ставший профессионалом из-за травмы — ведёт обычную жизнь: работает в баре, встречается с красавицей Ивонн, болеет за любимую команду и каждый день звонит маме, тоже большой фанатке бейсбола. Когда сосед-панк уезжает на пару дней и просит присмотреть за кусачим котом, жизнь Хэнка круто меняется. Его сильно избивают отмороженные русские бандиты, и парень оказывается в эпицентре криминальной истории с участием местных банд.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "криминал",
+        "комедия",
+        "боевик"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "707166",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.8
+      },
+      "filename": "Пойман с поличным.2025.WEB-DLRip.HDrezka Studio.avi",
+      "torrent": "torrents/6b329272-8eb1-4a06-9246-df4bba2c027d.torrent",
+      "size": 1574830080,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/6b329272-8eb1-4a06-9246-df4bba2c027d_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "9288a268-9baf-4aae-bc3c-c92029b26cc0",
+      "titles": {
+        "en": "Финикийская схема",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "1950 год, где-то на Ближнем Востоке. Экстравагантный магнат Жа-Жа Корда переживает череду покушений и затевает грандиозный трансконтинентальный проект «Финикийская схема». В стремлении защитить свою империю, Корда назначает единственной наследницей дочь Лисл, вытащив её из монастыря. Им предстоит столкнуться с многочисленными врагами, государственными интригами и сразиться за будущее семьи, бизнеса и всей Финикии.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "драма",
+        "комедия",
+        "криминал"
+      ],
+      "countries": [
+        "США",
+        "Германия"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5460719",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.9
+      },
+      "filename": "Финикийская схема_2025_WEB-DLRip",
+      "torrent": "torrents/9288a268-9baf-4aae-bc3c-c92029b26cc0.torrent",
+      "size": 1566433614,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/9288a268-9baf-4aae-bc3c-c92029b26cc0_poster.jpg"
     }
   ]
 }
