@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-10-22T08:45:13.937152700+00:00",
+  "updated_at": "2026-10-26T16:19:40.490737800+00:00",
   "items": [
     {
       "type": "movie",
@@ -2937,6 +2937,383 @@
         "subtitles": []
       },
       "poster": "assets/9288a268-9baf-4aae-bc3c-c92029b26cc0_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "6747fea1-ba62-4ec9-8879-527505189813",
+      "titles": {
+        "en": "Частная жизнь",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Известный психоаналитик Лилиан Штайнер привыкла знать о людях всё. Но внезапная смерть пациентки заставляет ее в этом усомниться. Вместе с бывшим мужем, обаятельным и невыносимым, Лилиан берётся за собственное расследование. И обнаруживает, что некоторые тайны пациентов лучше было не знать.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "детектив",
+        "триллер",
+        "комедия"
+      ],
+      "countries": [
+        "Франция"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "6555783",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.4
+      },
+      "filename": "Частная жизнь_2025_WEB-DLRip.avi",
+      "torrent": "torrents/6747fea1-ba62-4ec9-8879-527505189813.torrent",
+      "size": 1561182208,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/6747fea1-ba62-4ec9-8879-527505189813_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "d2c795aa-5bca-4cb3-a114-5d6915e9cb07",
+      "titles": {
+        "en": "Священная дорога",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Элис, уехавшая с семейного ужина после ссоры, случайно сбивает девушку в лесу на Халлоу-Роуд и теперь не знает, что делать. Она звонит своим родителям, и те отправляются к месту аварии.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "драма"
+      ],
+      "countries": [
+        "Ирландия",
+        "Великобритания",
+        "Чехия"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "7605666",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.2
+      },
+      "filename": "Священная дорога_2025_WEB-DLRip",
+      "torrent": "torrents/d2c795aa-5bca-4cb3-a114-5d6915e9cb07.torrent",
+      "size": 1554462077,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/d2c795aa-5bca-4cb3-a114-5d6915e9cb07_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "802f6e28-9abb-480c-b373-0a38266c0602",
+      "titles": {
+        "en": "Провод мертвеца",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Утром 8 февраля 1977 года 44-летний Энтони Дж. Киритсис вошёл в офис Ричарда О. Холла, президента компании Meridian Mortgage Company, и взял его в заложники, используя обрез дробовика 12-го калибра. Чтобы обезопасить себя и гарантировать выполнение требований, Тони связал спусковой крючок оружия с головой Холла проводом. Похититель потребовал 5 миллионов долларов, снятия всех обвинений и личных извинений от Холла за то, что тот обманом лишил его причитавшихся ему средств.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "драма",
+        "криминал",
+        "биография",
+        "история"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "7129031",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.3
+      },
+      "filename": "Провод мертвеца_2025_WEB-DLRip-AVC.mkv",
+      "torrent": "torrents/802f6e28-9abb-480c-b373-0a38266c0602.torrent",
+      "size": 1563801439,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/802f6e28-9abb-480c-b373-0a38266c0602_poster.webp"
+    },
+    {
+      "type": "movie",
+      "id": "841aa92e-97b2-4bc6-adc5-fabf5accbc18",
+      "titles": {
+        "en": "Другая Земля",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Научно-фантастическая драма о трагическом пересечении жизней студентки и композитора в ночь открытия учёными идентичной Земле планеты в Солнечной системе.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "фантастика",
+        "драма",
+        "мелодрама",
+        "детектив"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2011,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "489752",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.0
+      },
+      "filename": "Drugaya.Zemlya.2011. BDRip",
+      "torrent": "torrents/841aa92e-97b2-4bc6-adc5-fabf5accbc18.torrent",
+      "size": 1565441897,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/841aa92e-97b2-4bc6-adc5-fabf5accbc18_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "66a18bc1-90c6-4869-bf90-de4807e1ab5f",
+      "titles": {
+        "en": "Патруль времени (2013)",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Будущее. Учёные создали машину времени, и с этим изобретением мир вышел на новый виток цивилизации. Благодаря изобретению появилась возможность исправлять ошибки прошлого, чтобы сделать настоящее лучше. Также машина дала возможность предотвращать преступления до их реализации. Для этой цели были отобраны лучшие полицейские.\nГлавный герой — полицейский времени, который уже успел предотвратить огромное количество преступлений благодаря путешествиям сквозь время. Однако все его заслуги меркнут, потому что он неспособен остановить угрозу, намеревающуюся уничтожить Нью-Йорк.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "драма",
+        "детектив"
+      ],
+      "countries": [
+        "Австралия",
+        "США"
+      ],
+      "year": 2013,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "679924",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.0
+      },
+      "filename": "Predestination.2014.Dub.BDRip.1,46Gb.XviD.AC3.avi",
+      "torrent": "torrents/66a18bc1-90c6-4869-bf90-de4807e1ab5f.torrent",
+      "size": 1569968128,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/66a18bc1-90c6-4869-bf90-de4807e1ab5f_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "cfa64f05-3bf6-452d-8e08-0aef5dddb7cf",
+      "titles": {
+        "en": "Европа",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Частная корпорация отправляет международную космическую экспедицию к шестому спутнику Юпитера. Цель полёта — высадиться на поверхность Европы, в подлёдном океане которой учёные предполагают существование жизни.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "фантастика",
+        "драма"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2012,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "623379",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.3
+      },
+      "filename": "Evropa.2013.BDRip.x264.mkv",
+      "torrent": "torrents/cfa64f05-3bf6-452d-8e08-0aef5dddb7cf.torrent",
+      "size": 2304877252,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/cfa64f05-3bf6-452d-8e08-0aef5dddb7cf_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "f32e231a-1fb1-49ac-80f7-102b6e072aa0",
+      "titles": {
+        "en": "Спектральный",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "В Молдавии уже не первый год идёт война. Последнее время в зоне боевых действий стали появляться невидимые невооружённым глазом существа, которые мгновенно убивают вооружённых до зубов обученных профессионалов. Доктор Клайн принимал участие в разработке новейшего оружия, бессильного против этих существ, и теперь ему предстоит выяснить, что они такое и откуда взялись.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "приключения"
+      ],
+      "countries": [
+        "США",
+        "Венгрия"
+      ],
+      "year": 2016,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "708955",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.0
+      },
+      "filename": "Spectral_2016_WEBRip_by_Dalemake.avi",
+      "torrent": "torrents/f32e231a-1fb1-49ac-80f7-102b6e072aa0.torrent",
+      "size": 1563688960,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/f32e231a-1fb1-49ac-80f7-102b6e072aa0_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "a7a1f9d6-1763-468a-ac70-ac64359946f6",
+      "titles": {
+        "en": "Анон",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Идеальное общество будущего: режим тотального надзора, отсутствие личной жизни, приватных территорий и гражданских прав. Казалось бы, в полностью контролируемом государстве нет места ошибкам и правонарушениям, но однажды детектив Сол Фриленд замечает девушку, которая не числится в базах данных. Перед копом приоткрывается дверь преступного мира новой эры.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "фантастика",
+        "триллер",
+        "криминал",
+        "детектив"
+      ],
+      "countries": [
+        "Великобритания",
+        "Канада",
+        "США",
+        "Германия"
+      ],
+      "year": 2017,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "979121",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.4
+      },
+      "filename": "Анон_2018_BDRip.avi",
+      "torrent": "torrents/a7a1f9d6-1763-468a-ac70-ac64359946f6.torrent",
+      "size": 1569562624,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/a7a1f9d6-1763-468a-ac70-ac64359946f6_poster.jpg"
     }
   ]
 }
