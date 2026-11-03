@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-10-26T16:19:40.490737800+00:00",
+  "updated_at": "2026-11-03T14:20:33.883917200+00:00",
   "items": [
     {
       "type": "movie",
@@ -3129,7 +3129,7 @@
       "type": "movie",
       "id": "66a18bc1-90c6-4869-bf90-de4807e1ab5f",
       "titles": {
-        "en": "Патруль времени (2013)",
+        "en": "Патруль времени",
         "ru": null,
         "original": "New Movie"
       },
@@ -3314,6 +3314,333 @@
         "subtitles": []
       },
       "poster": "assets/a7a1f9d6-1763-468a-ac70-ac64359946f6_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "747363b0-581e-4258-847f-80949a6866ef",
+      "titles": {
+        "en": "Охотники за головами",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Роджер Браун — незаменимый специалист по подбору топ-менеджеров для крупнейших фирм. Чтобы удержать красавицу-жену, открывшую на деньги мужа картинную галерею в модном районе, Роджер давно уже живет не по средствам, и, пользуясь своим служебным положением, крадет дорогие картины у претендентов на руководящие должности. Однажды Роджер встречает голландца Класа Греве, который владеет бесценным экспонатом. Браун думает, что это хорошая возможность украсть картину, но он недооценивает своего противника.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "боевик",
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "Норвегия",
+        "Швеция",
+        "Дания",
+        "Германия"
+      ],
+      "year": 2011,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "526812",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.6
+      },
+      "filename": "Охотники за головами  ( боевик, триллер, криминал 2011 год).avi",
+      "torrent": "torrents/747363b0-581e-4258-847f-80949a6866ef.torrent",
+      "size": 1571227648,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/747363b0-581e-4258-847f-80949a6866ef_poster.png"
+    },
+    {
+      "type": "movie",
+      "id": "b4ff5bc3-3753-4d21-b1a7-8e75ce5f8c49",
+      "titles": {
+        "en": "Черный ящик",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Крушение новейшего авиалайнера уносит жизни сотен людей. Пролить свет на причины катастрофы может только расшифровка чёрного ящика. Расследование возглавляет талантливый и эксцентричный аналитик Матьё с уникальным слухом. Однако чем дальше он продвигается на своем пути, тем больше обнаруживает подозрительных обстоятельств.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "детектив",
+        "триллер"
+      ],
+      "countries": [
+        "Франция"
+      ],
+      "year": 2020,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1368311",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.6
+      },
+      "filename": "Black_Box_2021_HDRip_by_Dalemake.avi",
+      "torrent": "torrents/b4ff5bc3-3753-4d21-b1a7-8e75ce5f8c49.torrent",
+      "size": 1565343744,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/b4ff5bc3-3753-4d21-b1a7-8e75ce5f8c49_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "bf239d28-b835-46f5-b2e9-184d810273fb",
+      "titles": {
+        "en": "В конце туннеля",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Банда грабителей пытается сорвать большой куш, построив подземный туннель под банком. Происходящее привлекает внимание Хоакина, парализованного человека в инвалидном кресле, проживающего в соседнем доме. Но он совсем не торопится разоблачать гангстеров, так как считает, что у него появился шанс.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ],
+      "countries": [
+        "Аргентина",
+        "Испания"
+      ],
+      "year": 2015,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "940122",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.8
+      },
+      "filename": "V_konce_tunnelya_2016_BDRip_by_Dalemake",
+      "torrent": "torrents/bf239d28-b835-46f5-b2e9-184d810273fb.torrent",
+      "size": 1914810880,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/bf239d28-b835-46f5-b2e9-184d810273fb_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "3f71fb91-9909-4181-8cec-e33cd3b6aaec",
+      "titles": {
+        "en": "Сталкер",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "В сельской местности штата Орегон девушка спасается бегством от разъярённого мужчины с ружьём.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "боевик",
+        "криминал"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2023,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5126216",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.7
+      },
+      "filename": "Strange Darling (2023).mkv",
+      "torrent": "torrents/3f71fb91-9909-4181-8cec-e33cd3b6aaec.torrent",
+      "size": 1601051338,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/3f71fb91-9909-4181-8cec-e33cd3b6aaec_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "2e5ae730-9189-4c60-a9dc-899d0d1c0041",
+      "titles": {
+        "en": "Враг",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Взяв по совету коллеги фильм в прокате, преподаватель истории по имени Адам Белл с удивлением замечает в эпизодической роли актёра, который похож на него как две капли воды. Желание найти своего двойника превращается для парня в навязчивую идею, что становится причиной странных событий, постепенно погружающих его в пучину безумия.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив"
+      ],
+      "countries": [
+        "Канада",
+        "Франция",
+        "Испания"
+      ],
+      "year": 2013,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "673910",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.6
+      },
+      "filename": "Vrag.2013.DUAL.BDRip.x264.-HELLYWOOD.mkv",
+      "torrent": "torrents/2e5ae730-9189-4c60-a9dc-899d0d1c0041.torrent",
+      "size": 1568643796,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/2e5ae730-9189-4c60-a9dc-899d0d1c0041_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "c8139573-0c3c-4902-92a0-3e0aa53ea7cc",
+      "titles": {
+        "en": "Иллюзия полета",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Во время авиарейса Берлин — Нью-Йорк у Кайл Пратт неожиданно бесследно пропадает 6-летняя дочь Джулия. Переживая эмоциональный стресс после безвременной кончины мужа, Кайл отчаянно пытается доказать свою вменяемость не верящим ей членам экипажа и пассажирам. Однако ситуация выглядит настолько абсурдной и фантастичной, что она уже сама начинает сомневаться в адекватности своего восприятия реальности. Ведь факты свидетельствуют о том, что Джулии вообще не было на борту самолета.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2005,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "81873",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.1
+      },
+      "filename": "Illusiya_poleta_(2005).HDRip-AVC.Dub.Eng.Sub_[All.Films][RG].mkv",
+      "torrent": "torrents/c8139573-0c3c-4902-92a0-3e0aa53ea7cc.torrent",
+      "size": 1569668514,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/c8139573-0c3c-4902-92a0-3e0aa53ea7cc_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "d541dfc5-e8a3-4ed9-a437-8bb15472aa7a",
+      "titles": {
+        "en": "Тело",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Автомобиль сбивает человека, в панике убегающего от кого-то или от чего-то. Прибывшие на место полицейские выясняют, что сбитый бедолага — ночной сторож из близлежащего морга. Так что так напугало несчастного? И куда делся из отсека №3 недавно привезенный в морг труп?",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "криминал"
+      ],
+      "countries": [
+        "Испания"
+      ],
+      "year": 2012,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "609349",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.3
+      },
+      "filename": "Telo_2012_BDRip_iT_by_Dalemake.avi",
+      "torrent": "torrents/d541dfc5-e8a3-4ed9-a437-8bb15472aa7a.torrent",
+      "size": 1565431808,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/d541dfc5-e8a3-4ed9-a437-8bb15472aa7a_poster.jpg"
     }
   ]
 }
