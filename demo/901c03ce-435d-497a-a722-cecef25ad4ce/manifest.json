@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-11-03T14:20:33.883917200+00:00",
+  "updated_at": "2026-11-03T14:45:31.525195300+00:00",
   "items": [
     {
       "type": "movie",
@@ -3641,6 +3641,238 @@
         "subtitles": []
       },
       "poster": "assets/d541dfc5-e8a3-4ed9-a437-8bb15472aa7a_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "de7140ab-d443-4836-9f13-8e0b2984ddc4",
+      "titles": {
+        "en": "Подай знак",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Переодевшись в вечерние платья, Фрида и Джесс проникают в качестве гостей на приём, где они должны были работать официантками. Там Фрида знакомится со своим кумиром, IT-миллионером Слейтером Кингом, и хорошо проводит вечер в его компании, а затем он приглашает девушек и других гостей на свой частный тропический остров. В течение нескольких дней компания веселится — изысканные блюда, дорогой алкоголь и наркотики — но вскоре Фрида замечает, что происходит что-то странное.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "драма"
+      ],
+      "countries": [
+        "США",
+        "Мексика"
+      ],
+      "year": 2024,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "4630624",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.5
+      },
+      "filename": "Подай знак_2024_WEB-DLRip.avi",
+      "torrent": "torrents/de7140ab-d443-4836-9f13-8e0b2984ddc4.torrent",
+      "size": 1563148288,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/de7140ab-d443-4836-9f13-8e0b2984ddc4_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "fea46101-83c0-41e3-a807-6b47d23a6d12",
+      "titles": {
+        "en": "Не говори никому",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Отдыхая в Италии, переехавшие в Лондон американцы Бэн и Луиз с дочерью знакомятся с семьёй британцев. По возвращении домой они получают от новых знакомых приглашение погостить в их загородном доме. Вскоре обещавший быть приятным отдых становится напряжённым — хотя Бэн находит оправдания странному поведению хозяев, у Луиз они вызывают всё больше отторжения.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "драма"
+      ],
+      "countries": [
+        "Хорватия",
+        "Канада",
+        "США"
+      ],
+      "year": 2024,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5429853",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.6
+      },
+      "filename": "Speak.No.Evil.2024.WEB-DLRip от New-Team",
+      "torrent": "torrents/fea46101-83c0-41e3-a807-6b47d23a6d12.torrent",
+      "size": 1569498857,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/fea46101-83c0-41e3-a807-6b47d23a6d12_poster.webp"
+    },
+    {
+      "type": "movie",
+      "id": "2a6861f6-421d-4a1b-8b5b-f669030d196d",
+      "titles": {
+        "en": "Мементо",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Леонард Шелби изысканно и дорого одет, ездит на новеньком «Ягуаре», но останавливается в дешевых мотелях. Он всеми силами пытается найти убийцу жены. Его проблема — редкая форма амнезии, потеря короткой памяти — помня все до убийства, он не помнит, что было 15 минут назад.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "драма",
+        "криминал"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2000,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "335",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.9
+      },
+      "filename": "Memento.HDRip.Kubik.v.Kube.mkv",
+      "torrent": "torrents/2a6861f6-421d-4a1b-8b5b-f669030d196d.torrent",
+      "size": 3111132680,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/2a6861f6-421d-4a1b-8b5b-f669030d196d_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "def0c66d-11ff-4037-bf71-29f04cbc5c01",
+      "titles": {
+        "en": "Служанка",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "1930-е годы, Корея под властью Японии. Мошенник по прозвищу Граф предлагает бедной девушке Сук-хи поучаствовать в деле, обещая солидный заработок. Он рассчитывает очаровать богатую японку Хидэко, сбежать с ней в Японию, жениться, затем объявить её сумасшедшей, упечь в дурдом и завладеть богатством. А Сук-хи должна ему помочь, нанявшись в услужение к Хидэко. Что она и сделала. Но внезапно идеальный план Графа оказывается под угрозой.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "мелодрама",
+        "триллер",
+        "драма",
+        "история"
+      ],
+      "countries": [
+        "Корея Южная"
+      ],
+      "year": 2016,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "851960",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.7
+      },
+      "filename": "The.Handmaiden.2016.D.HDRip.avi",
+      "torrent": "torrents/def0c66d-11ff-4037-bf71-29f04cbc5c01.torrent",
+      "size": 1467121664,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/def0c66d-11ff-4037-bf71-29f04cbc5c01_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "8a6ed70c-ced0-48aa-9ba6-5dc23278b46a",
+      "titles": {
+        "en": "Спасительница",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Религиозная девушка Мод работает сиделкой. Её новой подопечной становится смертельно больная бывшая танцовщица Аманда, в одиночестве проживающая в большом особняке. Мод выполняет свои обычные обязанности, но после того как Аманда называет её своей спасительницей, девушка решает, что только она может избавить душу женщины от вечных мук.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "ужасы",
+        "драма"
+      ],
+      "countries": [
+        "Великобритания"
+      ],
+      "year": 2019,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1202530",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.0
+      },
+      "filename": "Saint.Maud.2019.iT.BDRip.1.42GB.MegaPeer",
+      "torrent": "torrents/8a6ed70c-ced0-48aa-9ba6-5dc23278b46a.torrent",
+      "size": 1527486625,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/8a6ed70c-ced0-48aa-9ba6-5dc23278b46a_poster.jpg"
     }
   ]
 }
