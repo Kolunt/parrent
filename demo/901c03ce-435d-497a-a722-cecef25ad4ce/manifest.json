@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-11-21T08:52:24.456952800+00:00",
+  "updated_at": "2026-11-21T09:38:40.777480400+00:00",
   "items": [
     {
       "type": "movie",
@@ -3920,7 +3920,7 @@
       "type": "movie",
       "id": "9c3c1bff-c29c-4fad-94c4-81fff2084561",
       "titles": {
-        "en": "Гренландия 2: Миграция (2026)",
+        "en": "Гренландия 2: Миграция",
         "ru": null,
         "original": "New Movie"
       },
@@ -4036,11 +4036,12 @@
       ],
       "year": 2026,
       "external_ids": {
-        "imdb": null,
+        "imdb": "tt19393076",
         "kinopoisk": "5447044",
         "tmdb": null
       },
       "ratings": {
+        "imdb": 5.4,
         "kinopoisk": 5.9
       },
       "filename": "Полный такос_2026_WEB-DLRip",
