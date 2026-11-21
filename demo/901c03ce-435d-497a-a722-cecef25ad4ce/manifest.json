@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-11-20T23:08:34.827512800+00:00",
+  "updated_at": "2026-11-21T08:52:24.456952800+00:00",
   "items": [
     {
       "type": "movie",
@@ -4084,11 +4084,12 @@
       ],
       "year": 2025,
       "external_ids": {
-        "imdb": null,
+        "imdb": "tt1341338",
         "kinopoisk": "463492",
         "tmdb": null
       },
       "ratings": {
+        "imdb": 7.0,
         "kinopoisk": 7.0
       },
       "filename": "Good.Luck.Have.Fun.Dont.Die.2025.WEB-DLRip-New-Team",
