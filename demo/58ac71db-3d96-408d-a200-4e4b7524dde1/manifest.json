@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-11-23T17:29:47.952612600+00:00",
+  "updated_at": "2026-11-23T17:30:47.776060100+00:00",
   "items": [
     {
       "type": "series",
@@ -3645,6 +3645,9 @@
         "imdb": null,
         "kinopoisk": "1209420",
         "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.6
       },
       "poster": "assets/38da4acc-eff8-4347-8874-a13b923ca7f4_poster.jpg",
       "torrent": "torrents/cfd32ad3-2ae0-47fe-b0c5-3b73dab06585.torrent",
