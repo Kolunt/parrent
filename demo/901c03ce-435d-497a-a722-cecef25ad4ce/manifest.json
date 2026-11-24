@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-11-24T13:33:56.200816700+00:00",
+  "updated_at": "2026-11-24T15:24:24.028317200+00:00",
   "items": [
     {
       "type": "movie",
@@ -4251,6 +4251,374 @@
         "subtitles": []
       },
       "poster": "assets/508965cd-8d71-41ad-a04f-ddf0c028f0bf_poster.png"
+    },
+    {
+      "type": "movie",
+      "id": "e0449b87-cc36-46af-8451-b298fae887c8",
+      "titles": {
+        "en": "Преступление на третьем этаже",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Франсуа пишет захватывающие детективы, но его реальная жизнь скучна и однообразна. Его жена Колетт мечтает об остроте чувств, показывая студентам хичкоковский кинематограф. Но всё меняется, когда Коллет начинает подозревать соседа в убийстве жены. Размеренная жизнь пары летит кувырком, а их выдохшиеся отношения внезапно оживают.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "драма",
+        "комедия"
+      ],
+      "countries": [
+        "Франция"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "10187723",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.4
+      },
+      "filename": "Le crime du 3e étage.2026.DUB.WEB-DLRip-AVC.x264.seleZen.mkv",
+      "torrent": "torrents/e0449b87-cc36-46af-8451-b298fae887c8.torrent",
+      "size": 1542228749,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/e0449b87-cc36-46af-8451-b298fae887c8_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "ba2f4614-c99d-4bfc-b753-0d4330cf2d1f",
+      "titles": {
+        "en": "Сначала дамы",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Дэмиен Сакс — один из руководителей рекламного агентства, который находится на грани повышения до должности генерального директора, — привык получать всё, что хочет. Однажды Дэмиен оказывается в параллельном мире, где правят женщины. Теперь перед мужчиной стоит сложная задача: чтобы вернуться в свою реальность, ему, будучи на вторых ролях, нужно добиться назначения на пост директора агентства.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "12024538",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.6
+      },
+      "filename": "Snachala.damy.2026.NF.WEB-DLRip.AVC.mkv",
+      "torrent": "torrents/ba2f4614-c99d-4bfc-b753-0d4330cf2d1f.torrent",
+      "size": 1698763406,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/ba2f4614-c99d-4bfc-b753-0d4330cf2d1f_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "fc1d051b-8bd9-4f71-8b7a-f06d0927b57d",
+      "titles": {
+        "en": "Необычайно умные создания",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Небольшой город Соуэлл-Бэй в штате Вашингтон. Това Салливан много лет назад потеряла сына, а недавно из жизни ушёл и её муж. Теперь пожилая вдова по ночам работает уборщицей в местном аквариуме, и постепенно она заводит дружбу с гигантским осьминогом Марцеллом, который мечтает сбежать и снова оказаться на свободе.\nОднажды Това подворачивает ногу на работе, а в город приезжает молодой парень Кэмерон, который после смерти матери пытается разыскать своего отца. Парень устраивается на подработку в аквариум, чтобы подменить женщину, но та не может удержаться и приходит пообщаться с осьминогом. Марцелл замечает, что между Товой и Кэмероном много общего — в их глазах он замечает тоску по близким и желание вырваться на свободу.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "драма",
+        "комедия"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "12245586",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.8
+      },
+      "filename": "Remarkably.Bright.Creatures.2026.Dub.WEB-DLRip.1.46GB_MegaPeer",
+      "torrent": "torrents/fc1d051b-8bd9-4f71-8b7a-f06d0927b57d.torrent",
+      "size": 1568688289,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/fc1d051b-8bd9-4f71-8b7a-f06d0927b57d_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "1f4d46a5-a785-4e05-9783-0df7c5cf40a8",
+      "titles": {
+        "en": "Прайм-тайм",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "2006 год. Журналист и телеведущий Крис Хэнсен работает на NBC. Он запускает новое необычное шоу «Поймать хищника», в котором разоблачает педофилов, используя актёров в качестве приманки. Программа пользуется большим успехом, и глава канала ставит передачу в прайм-тайм. Однако в жизни самого Криса назревают серьёзные проблемы.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "драма",
+        "биография",
+        "криминал"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "7400696",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.3
+      },
+      "filename": "Прайм-тайм_2026_WEB-DLRip",
+      "torrent": "torrents/1f4d46a5-a785-4e05-9783-0df7c5cf40a8.torrent",
+      "size": 1559532523,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/1f4d46a5-a785-4e05-9783-0df7c5cf40a8_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "333b961f-0541-42a3-b60d-0876841b4ac3",
+      "titles": {
+        "en": "Приезжий",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Уединённый шотландский остров. Айла и её брат Сэнди охотятся на птиц, общаются с мифическими существами и отбиваются от чужаков. Их жизнь меняется, когда появляется Дэниел — неуклюжий чиновник, который хочет переселить их на большую землю.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "Великобритания",
+        "Ирландия"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "11137869",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.8
+      },
+      "filename": "Priezzhij.2026.AMZN.WEB-DLRip.AVC.mkv",
+      "torrent": "torrents/333b961f-0541-42a3-b60d-0876841b4ac3.torrent",
+      "size": 2340865127,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/333b961f-0541-42a3-b60d-0876841b4ac3_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "0831d6b3-8197-45fa-8ca5-edef7ec548b6",
+      "titles": {
+        "en": "До последнего грамма",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Орегон, 1933 год, время Великой депрессии. Опытный автомеханик Мерфи попадает в исправительно-трудовой лагерь за спровоцированное нападение на полицейских, и его разлучают с маленькой дочерью, которую вскоре должны отдать на удочерение. Произведя хорошее впечатление на начальника лагеря Клэнси, Мерфи получает от него шанс выйти раньше срока и воссоединиться с дочкой, но для этого ему и ещё троим заключённым предстоит участвовать в опасной операции по переправке золота с закрывающегося рудника, чтобы оно не досталось мародёрам.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "приключения",
+        "криминал"
+      ],
+      "countries": [
+        "Германия",
+        "Канада",
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "1330494",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.1
+      },
+      "filename": "До последнего грамма_2026_WEB-DLRip",
+      "torrent": "torrents/0831d6b3-8197-45fa-8ca5-edef7ec548b6.torrent",
+      "size": 1562424586,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/0831d6b3-8197-45fa-8ca5-edef7ec548b6_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "e5aec87f-1805-40cb-8713-1378866aa422",
+      "titles": {
+        "en": "Де Голль. Часть 1. Сопротивление",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Июнь 1940 года. Франция рушится под натиском немецкого вторжения, но бригадный генерал Шарль де Голль отказывается признать поражение. Покинув страну вместе с Жоффруа Шодроном де Курселем, он добирается до Лондона и пытается убедить Уинстона Черчилля, что Франция продолжает борьбу — даже без правительства, армии и широкой поддержки. Пока де Голль по крупицам создаёт движение «Свободная Франция», в оккупированном Париже юный Фернан Боннье де Ла Шапель и Ливия вступают на путь сопротивления.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "драма",
+        "военный",
+        "биография",
+        "история"
+      ],
+      "countries": [
+        "Франция",
+        "Бельгия",
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5453092",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.7
+      },
+      "filename": "De.Goll.Chast.1.Soprotivlenie.2026.WEB-DLRip.AVC.mkv",
+      "torrent": "torrents/e5aec87f-1805-40cb-8713-1378866aa422.torrent",
+      "size": 2740759241,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/e5aec87f-1805-40cb-8713-1378866aa422_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "702b0e55-1b85-47cd-b0e9-7119410f0255",
+      "titles": {
+        "en": "Ограбление в Лос-Анджелесе",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Дерзкие ограбления неуловимого вора Дэвиса вдоль знаменитого шоссе 101 поставили полицию в тупик. Планируя последнее дело, он сталкивается с разочаровавшимся страховым брокером Шэрон, переживающей переломный момент. Неожиданное сотрудничество между ними привлекает внимание настойчивого детектива Лу, который стремится раскрыть дело любой ценой.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "США",
+        "Великобритания"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "6450546",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.6
+      },
+      "filename": "Ограбление в Лос-Анджелесе_2026_WEBRip.avi",
+      "torrent": "torrents/702b0e55-1b85-47cd-b0e9-7119410f0255.torrent",
+      "size": 2341636096,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/702b0e55-1b85-47cd-b0e9-7119410f0255_poster.jpg"
     }
   ]
 }
