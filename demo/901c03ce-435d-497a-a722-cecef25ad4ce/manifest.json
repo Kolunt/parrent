@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-11-24T07:33:42.606991200+00:00",
+  "updated_at": "2026-11-24T12:34:45.984289600+00:00",
   "items": [
     {
       "type": "movie",
@@ -4204,6 +4204,53 @@
         "subtitles": []
       },
       "poster": "assets/a23561d4-d108-4650-8068-9bed77a21a18_poster.jpg"
+    },
+    {
+      "type": "movie",
+      "id": "508965cd-8d71-41ad-a04f-ddf0c028f0bf",
+      "titles": {
+        "en": "Грязные деньги",
+        "ru": null,
+        "original": "New Movie"
+      },
+      "descriptions": {
+        "en": "Когда безжалостный магнат Саласар присваивает миллиард долларов, отряд элитных агентов под руководством проницательной Рэйчел получает задание вернуть деньги любой ценой. Сид, Бронко и их соратники начинают воплощать стратегию давления на афериста, а затем отправляются на остров Саласара, где демонстрируют все свои навыки обращения с оружием и взрывчаткой. Однако внезапно ситуация выходит из-под контроля.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "боевик",
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "Великобритания",
+        "США"
+      ],
+      "year": 2025,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "5437609",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.3
+      },
+      "filename": "In.the.Grey.BDRip.Kubik.v.Kube.mkv",
+      "torrent": "torrents/508965cd-8d71-41ad-a04f-ddf0c028f0bf.torrent",
+      "size": 2333493487,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/508965cd-8d71-41ad-a04f-ddf0c028f0bf_poster.png"
     }
   ]
 }
