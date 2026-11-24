@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-11-21T11:10:36.466333600+00:00",
+  "updated_at": "2026-11-24T07:33:42.606991200+00:00",
   "items": [
     {
       "type": "movie",
@@ -4108,6 +4108,102 @@
         "subtitles": []
       },
       "poster": "assets/3cc35077-2afb-4b7b-9732-5661512f1511_poster.jpg"
+    },
+    {
+      "type": "animated_movie",
+      "id": "091b50a7-49c7-4c9e-b50d-6a58c47cf088",
+      "titles": {
+        "en": "Хитрый койот",
+        "ru": null,
+        "original": "New Animated Movie"
+      },
+      "descriptions": {
+        "en": "Легендарный Хитрый Койот оказывается среди людей. Устав быть вечной жертвой неудачных изобретений корпорации «АКМЕ», он нанимает адвоката и подает на компанию в суд. Теперь вместо погони за Дорожным Бегуном его ждет судебная битва с безжалостным корпоративным юристом Бадди Крейном, для которого прибыль важнее справедливости.",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "мультфильм",
+        "фэнтези",
+        "комедия",
+        "приключения",
+        "семейный"
+      ],
+      "countries": [
+        "США"
+      ],
+      "year": 2026,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "572477",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 7.1
+      },
+      "filename": "Хитрый койот_2026_WEB-DLRip-AVC.mkv",
+      "torrent": "torrents/091b50a7-49c7-4c9e-b50d-6a58c47cf088.torrent",
+      "size": 1568341479,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/091b50a7-49c7-4c9e-b50d-6a58c47cf088_poster.jpg"
+    },
+    {
+      "type": "animated_movie",
+      "id": "a23561d4-d108-4650-8068-9bed77a21a18",
+      "titles": {
+        "en": "Луни Тюнз: Снова в деле",
+        "ru": null,
+        "original": "New Animated Movie"
+      },
+      "descriptions": {
+        "en": "Анимационные герои: Багс Банни и Даффи Дак - в реальной жизни! Поиски пропавшего человека и огромного мифического алмаза приводят Багса и Даффи сначала в Лас-Вегас, а затем в непроходимые джунгли Африки…",
+        "ru": null,
+        "original": null
+      },
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "приключения",
+        "семейный"
+      ],
+      "countries": [
+        "Германия",
+        "США"
+      ],
+      "year": 2003,
+      "external_ids": {
+        "imdb": null,
+        "kinopoisk": "2518",
+        "tmdb": null
+      },
+      "ratings": {
+        "kinopoisk": 6.2
+      },
+      "filename": "(2003) Луни Тюнз - Снова в деле.mkv",
+      "torrent": "torrents/a23561d4-d108-4650-8068-9bed77a21a18.torrent",
+      "size": 1564486684,
+      "media": {
+        "duration": 0,
+        "video": {
+          "codec": "unknown",
+          "resolution": "unknown",
+          "fps": 0.0,
+          "bitrate": null
+        },
+        "audio": [],
+        "subtitles": []
+      },
+      "poster": "assets/a23561d4-d108-4650-8068-9bed77a21a18_poster.jpg"
     }
   ]
 }
