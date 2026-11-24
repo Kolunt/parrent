@@ -13,7 +13,7 @@
   "poster": null,
   "backdrop": null,
   "external_url": null,
-  "updated_at": "2026-11-23T17:30:47.776060100+00:00",
+  "updated_at": "2026-11-24T06:54:00.670208400+00:00",
   "items": [
     {
       "type": "series",
@@ -3681,7 +3681,7 @@
       ]
     },
     {
-      "type": "series",
+      "type": "animated_series",
       "id": "c69e4f39-8f28-4247-881f-8a324c8951b6",
       "titles": {
         "en": "Любовь. Смерть. Роботы",
@@ -3716,7 +3716,7 @@
         "kinopoisk": 8.2
       },
       "poster": "assets/c69e4f39-8f28-4247-881f-8a324c8951b6_poster.jpg",
-      "torrent": null,
+      "torrent": "torrents/dc1fc17a-bd1b-4388-bad5-8a65f95c7814.torrent",
       "seasons": [
         {
           "type": "season",
